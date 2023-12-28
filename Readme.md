@@ -10,5 +10,5 @@
 
 ## List of Companies in Chennai
 
-|Startup Name |	Industry |	Careers Page | LinkedIn | Email |
-|------------ |	-------- |	------------ |	------- | ----- |
+|      Company Name    |	    Industry     |	     Careers Page    |      LinkedIn    |     Email    |
+|      ------------    |	    --------     |	     ------------    |	    -------     |     -----    |
