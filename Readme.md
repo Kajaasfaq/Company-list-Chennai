@@ -24,3 +24,17 @@
 | KissFlow | SaaS/No Code | [KissFlow Career Page](https://careers.kissflow.com/) | [KissFlow Linkedin](https://www.linkedin.com/company/kissflow/) | [ Email ](hr@kissflow.com) |
 | Idea2IT | IT | [Idea2IT Career Page](https://www.ideas2it.com/careers) | [Idea2IT Linkedin](https://www.linkedin.com/company/ideas2it/) | [ For other Opening ](https://www.linkedin.com/company/ideas2it/jobs/) |
 | Mitsogo | IT | [Mitsogo Career Page](https://www.mitsogo.com/careers/) | [Mitsogo Linkedin](https://www.linkedin.com/company/mitsogo/) | [ For Internship ](https://www.mitsogo.com/mitsogo-lnternship-program/) |
+
+
+
+## Final Note
+
+Thank you for visiting This Repo! I hope it serves your needs well. If you like, consider starring ⭐ the repository and sharing it with others.
+
+Stay connected for more updates and feel free to contribute or provide feedback. Together, we make this project even better!
+
+---
+ 
+## Lets Get Connect 
+
+Made with ❤️ by [ Asfaq ](https://www.linkedin.com/in/abdul-muthalif-asfaq/)-[ GitHub ](https://github.com/Kajaasfaq)
