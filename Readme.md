@@ -13,3 +13,7 @@
 | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
 | ------------    |	 --------     |	     ------------    |	    -------     |     -----    |
 | Zoho | Saas | [Zoho Career Page](https://www.zoho.com/careers/) | [Zoho Linkedin](https://www.linkedin.com/company/zoho/) | [For other Openings](https://careers.zohocorp.com/candidateportal?register=true) |
+| FreshWorks | Saas | [FreshWorks Career Page](https://careers.smartrecruiters.com/Freshworks) | [Freshworks Linkedin](https://www.linkedin.com/company/freshworks-inc/) | [For other Openings](https://jobs.smartrecruiters.com/oneclick-ui/company/Freshworks/job/1957455898?lang=en&sid=&dcr_ci=Freshworks) |
+| Rocketlane | Saas | [Rocketlane Career Page](https://rocketlane.freshteam.com/jobs) | [Rocketlane Linkedin](https://www.linkedin.com/company/rocketlane/) | [Email](careers@rocketlane.com) |
+| ChargeBee | Saas | [ Chargebee Career Page](https://jobs.chargebee.com/?_gl=1*fkrhqk*_gcl_au*OTIwNzgyMDIuMTcwMzc2OTIxNw..) | [ Chargebee Linkedin](https://www.linkedin.com/company/chargebee/) | [Email](careers@chargebee.com) |
+| Zocket | AI/SaaS | [Zocket Career Page](https://zocket.keka.com/careers) | [Zocket Linkedin](https://www.linkedin.com/company/zocketdigital/) | [ Email ](careers@zocket.com) |
