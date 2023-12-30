@@ -24,6 +24,12 @@
 | KissFlow | SaaS/No Code | [KissFlow Career Page](https://careers.kissflow.com/) | [KissFlow Linkedin](https://www.linkedin.com/company/kissflow/) | [ Email ](hr@kissflow.com) |
 | Idea2IT | IT | [Idea2IT Career Page](https://www.ideas2it.com/careers) | [Idea2IT Linkedin](https://www.linkedin.com/company/ideas2it/) | [ For other Opening ](https://www.linkedin.com/company/ideas2it/jobs/) |
 | Mitsogo | IT | [Mitsogo Career Page](https://www.mitsogo.com/careers/) | [Mitsogo Linkedin](https://www.linkedin.com/company/mitsogo/) | [ For Internship ](https://www.mitsogo.com/mitsogo-lnternship-program/) |
+| ICON plc | Pharmaceutical Manufacturing | [ICON plc Career Page](https://careers.iconplc.com/) | [ICON plc Linkedin](https://www.linkedin.com/company/icon-plc-2/) | [ For other Opening ](https://careers.iconplc.com/graduate-opportunities) |
+| UPS | Truck Transportation | [UPS Career Page](https://www.jobs-ups.in/) | [UPS Linkedin](https://www.linkedin.com/company/ups/) | [ For other Opening ](https://www.jobs-ups.in/search-jobs/Chennai%2C%20Tamil%20Nadu%2C%20India/33100/4/1269750-1255053-7646145-1264527/13x08784/80x27847/15/2) |
+| Orion Innovation
+ | IT Services and IT Consulting | [Orion Innovation Career Page](https://www.orioninc.com/careers/) | [Orion Innovation Linkedin](https://www.linkedin.com/company/orioninnovation/) | [ Email ](career.india@orioninc.com) |
+| NTT Data | AI/SaaS | [NTT Data Career Page](https://careers.services.global.ntt/global/en) | [ZNTT Data Linkedin](https://www.linkedin.com/company/global-ntt/) | [ For other Opening ](https://careers.services.global.ntt/global/en/jointalentcommunity) |
+
 
 
 
