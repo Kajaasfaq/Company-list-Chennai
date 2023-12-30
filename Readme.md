@@ -27,7 +27,7 @@
 | ICON plc | Pharmaceutical Manufacturing | [ICON plc Career Page](https://careers.iconplc.com/) | [ICON plc Linkedin](https://www.linkedin.com/company/icon-plc-2/) | [ For other Opening ](https://careers.iconplc.com/graduate-opportunities) |
 | UPS | Truck Transportation | [UPS Career Page](https://www.jobs-ups.in/) | [UPS Linkedin](https://www.linkedin.com/company/ups/) | [ For other Opening ](https://www.jobs-ups.in/search-jobs/Chennai%2C%20Tamil%20Nadu%2C%20India/33100/4/1269750-1255053-7646145-1264527/13x08784/80x27847/15/2) |
 | Orion Innovation | IT Services and IT Consulting | [Orion Innovation Career Page](https://www.orioninc.com/careers/) | [Orion Innovation Linkedin](https://www.linkedin.com/company/orioninnovation/) | [ Email ](career.india@orioninc.com) |
-| NTT Data | AI/SaaS | [NTT Data Career Page](https://careers.services.global.ntt/global/en) | [ZNTT Data Linkedin](https://www.linkedin.com/company/global-ntt/) | [ For other Opening ](https://careers.services.global.ntt/global/en/jointalentcommunity) |
+| NTT Data | IT Services and IT Consulting | [NTT Data Career Page](https://careers.services.global.ntt/global/en) | [ZNTT Data Linkedin](https://www.linkedin.com/company/global-ntt/) | [ For other Opening ](https://careers.services.global.ntt/global/en/jointalentcommunity) |
 
 
 
