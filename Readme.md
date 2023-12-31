@@ -27,7 +27,15 @@
 | ICON plc | Pharmaceutical Manufacturing | [ICON plc Career Page](https://careers.iconplc.com/) | [ICON plc Linkedin](https://www.linkedin.com/company/icon-plc-2/) | [ For other Opening ](https://careers.iconplc.com/graduate-opportunities) |
 | UPS | Truck Transportation | [UPS Career Page](https://www.jobs-ups.in/) | [UPS Linkedin](https://www.linkedin.com/company/ups/) | [ For other Opening ](https://www.jobs-ups.in/search-jobs/Chennai%2C%20Tamil%20Nadu%2C%20India/33100/4/1269750-1255053-7646145-1264527/13x08784/80x27847/15/2) |
 | Orion Innovation | IT Services and IT Consulting | [Orion Innovation Career Page](https://www.orioninc.com/careers/) | [Orion Innovation Linkedin](https://www.linkedin.com/company/orioninnovation/) | [ Email ](career.india@orioninc.com) |
-| NTT Data | AI/SaaS | [NTT Data Career Page](https://careers.services.global.ntt/global/en) | [ZNTT Data Linkedin](https://www.linkedin.com/company/global-ntt/) | [ For other Opening ](https://careers.services.global.ntt/global/en/jointalentcommunity) |
+| NTT Data | IT | [NTT Data Career Page](https://careers.services.global.ntt/global/en) | [ZNTT Data Linkedin](https://www.linkedin.com/company/global-ntt/) | [ For other Opening ](https://careers.services.global.ntt/global/en/jointalentcommunity) |
+| Kaleris | IT | [Kaleris Career Page](https://kaleris.com/company/careers/) | [Kaleris Linkedin](https://www.linkedin.com/company/kaleris/) | [ For other Opening ](https://boards.greenhouse.io/kaleris) |
+| Response Informatics | IT Services  | [Response Informatics Career Page](https://www.responseinformaticsltd.com/careers/) | [Response Informatics Linkedin](https://www.linkedin.com/company/response-informatics-ltd/) | [ Email ](info@responseinformaticsltd.com) |
+| Optimum Solutions Pte Ltd | IT Services | [Optimum Solutions Pte Ltd Career Page](https://theoptimum.net/careers/) | [Optimum Solutions Pte Ltd Linkedin](https://www.linkedin.com/company/optimum-solutions-pte-ltd/) | [ Contact Us ](https://theoptimum.net/careers/#) |
+| Navis | Maritime Transportation | [Navis Career Page](https://kaleris.com/company/careers/) | [Navis Linkedin](https://www.linkedin.com/company/navis/) | [ Job Openings ](https://www.linkedin.com/company/navis/jobs/) |
+| NielsenIQ | Information Services | [NielsenIQ Career Page](https://nielseniq.com/global/en/careers/) | [NielsenIQ Linkedin](https://www.linkedin.com/company/nielseniq/) | [ Early Career ](https://nielseniq.com/global/en/careers/early-careers/) |
+
+
+| 
 
 
 
