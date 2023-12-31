@@ -33,7 +33,13 @@
 | Optimum Solutions Pte Ltd | IT Services | [Optimum Solutions Pte Ltd Career Page](https://theoptimum.net/careers/) | [Optimum Solutions Pte Ltd Linkedin](https://www.linkedin.com/company/optimum-solutions-pte-ltd/) | [ Contact Us ](https://theoptimum.net/careers/#) |
 | Navis | Maritime Transportation | [Navis Career Page](https://kaleris.com/company/careers/) | [Navis Linkedin](https://www.linkedin.com/company/navis/) | [ Job Openings ](https://www.linkedin.com/company/navis/jobs/) |
 | NielsenIQ | Information Services | [NielsenIQ Career Page](https://nielseniq.com/global/en/careers/) | [NielsenIQ Linkedin](https://www.linkedin.com/company/nielseniq/) | [ Early Career ](https://nielseniq.com/global/en/careers/early-careers/) |
-
+| DevRev | AI/SaaS | [DevRev Career Page](https://devrev.ai/careers?utm_source=devrev) | [DevRev Linkedin](https://www.linkedin.com/company/devrev/) | [ Email ](careers@devrev.ai) |
+| Wiz | Transportation/Logistics, | [Wiz Career Page](https://wizfreight.com/careers) | [Wiz Linkedin](https://www.linkedin.com/company/wizfreight/) | [ Email ](careers@wizfreight.com) |
+| Waycool | Food & Beverages | [Waycool Career Page](https://waycool.in/work-with-us/career) | [Waycool Linkedin](https://www.linkedin.com/company/waycoolfoods/) | [ Email ](connect@waycool.in) |
+| Angikul Cosmos | Aerospace | [Angikul Cosmos Career Page](https://agnikul.in/#/career) | [Angikul Cosmos Linkedin](https://www.linkedin.com/company/agnikul-cosmos/) | [ Email ](humancapital@agnikul.in) |
+| Forbes Advisor | Finance/Tech | [Forbes Advisor Career Page](https://www.forbes.com/advisor/careers/) | [Forbes Advisor Linkedin](https://www.linkedin.com/company/forbes-advisor/) | [ For other Opening](https://www.forbes.com/advisor/careers/) |
+| Planys Technologies | Maritime | [Planys Technologies Career Page](https://planystech.com/career/) | [Planys Technologies Linkedin](https://www.linkedin.com/company/planys/) | [ Email ](info@planystech.com) |
+| Guardian Link | NFT/WEB3 | [Guardian Link Career Page](https://www.guardianlink.io/no-code-platform) | [Guardian Link Linkedin](https://www.linkedin.com/company/guardianlink/) | [ Discord ](https://discord.com/invite/GuardianLink) |
 
 
 ## Final Note
