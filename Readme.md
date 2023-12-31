@@ -35,10 +35,6 @@
 | NielsenIQ | Information Services | [NielsenIQ Career Page](https://nielseniq.com/global/en/careers/) | [NielsenIQ Linkedin](https://www.linkedin.com/company/nielseniq/) | [ Early Career ](https://nielseniq.com/global/en/careers/early-careers/) |
 
 
-| 
-
-
-
 
 ## Final Note
 
