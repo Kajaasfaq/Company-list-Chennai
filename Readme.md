@@ -47,8 +47,8 @@
 |   33  | Pickyourtrail  | Travel Arrangements | [Pickyourtrail Career Page](https://careers.pickyourtrail.com/jobs/Careers) | [Pickyourtrail Linkedin](https://www.linkedin.com/company/pickyourtrail/) | [ Other openings ](https://careers.pickyourtrail.com/jobs/Madurai) |
 |   34  | GT Holidays | Travel Arrangements | [GT Holidays Career Page](https://www.gtholidays.in/careers/) | [GT Holidays Linkedin](https://www.linkedin.com/company/gtholidays/) | [ Email ](mailto:mail@gtholidays.in) |
 |   35  | Walmart Global Tech India | Software Development | [Walmart Global Tech India Career Page](https://tech.walmart.com/content/walmart-global-tech/en_us.html) | [Walmart Global Tech India Linkedin](https://www.linkedin.com/company/walmartglobaltechindia/) | [ Other openings ](https://careers.walmart.com/results?q=&page=1&sort=rank&expand=department,brand,type,rate&jobCareerArea=0000015e-b97d-d143-af5e-bd7da8ca0000) |
+|   36 | SuperOps | AI/SaaS | [SuperOps Career Page](https://superops.com/careers) | [SuperOps Linkedin](https://www.linkedin.com/products/superops-ai-superopsai-psa/) | [ Other Openings ](https://superops.com/careers#CurrentJobs) |
  
-
 
 ## Final Note
 
