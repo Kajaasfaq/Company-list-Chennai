@@ -40,6 +40,9 @@
 |   26 | Forbes Advisor | Finance/Tech | [Forbes Advisor Career Page](https://www.forbes.com/advisor/careers/) | [Forbes Advisor Linkedin](https://www.linkedin.com/company/forbes-advisor/) | [ For other Opening](https://www.forbes.com/advisor/careers/) |
 |   27 | Planys Technologies | Maritime | [Planys Technologies Career Page](https://planystech.com/career/) | [Planys Technologies Linkedin](https://www.linkedin.com/company/planys/) | [ Email ](mailto:info@planystech.com) |
 |   28 | Guardian Link | NFT/WEB3 | [Guardian Link Career Page](https://www.guardianlink.io/no-code-platform) | [Guardian Link Linkedin](https://www.linkedin.com/company/guardianlink/) | [ Discord ](https://discord.com/invite/GuardianLink) |
+|   29 | Accenture | IT | [Accenture Career Page](https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1) | [Accenture Linkedin](https://www.linkedin.com/company/accentureindia/) | [ Early career Role ](https://indiacampus.accenture.com/myzone/accenture/1/jobs) |
+|   30  | NatWest | IT | [NatWest Career Page](https://jobs.natwestgroup.com/) | [NatWest Linkedin](https://www.linkedin.com/company/natwest-group/) | [ Early career Role ](https://jobs.natwestgroup.com/pages/early-careers) |
+|   31  | Amtex System Inc | IT | [Amtex System Inc Career Page](https://www.linkedin.com/jobs/search/?currentJobId=3786615302&f_C=14699670%2C35922388&f_CR=102713980&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R) | [Amtex System Inc Linkedin](https://www.linkedin.com/company/amtex-systems-inc/) | [ Email ](mailto:info@amtexsystems.com) |
 
 
 ## Final Note
