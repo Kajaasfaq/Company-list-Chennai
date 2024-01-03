@@ -52,6 +52,10 @@
 |   38 | Wood | Oil/gas | [Wood Career Page](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=Chennai%2C+Tamil+Nadu%2C+India&locationId=100006076502136&locationLevel=city&mode=location&radius=25&radiusUnit=KM) | [Wood Linkedin](https://www.linkedin.com/company/woodplc/) | [ Early career ](https://careers.woodplc.com/early-careers) |
 |   39 | Fiserv | IT/Payment Gateways | [Fiserv Career Page](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/) | [Fiserv Linkedin](https://www.linkedin.com/company/fiserv/) | [ Early career ](https://www.careers.fiserv.com/campus) |
 |   40 | Growfin.ai | AI/SaaS | [SGrowfin.ai Career Page](https://www.growfin.ai/careers) | [Growfin.ai Linkedin](https://www.linkedin.com/company/growfinapp/) | [ Other Openings ](https://growfin.keka.com/careers/) |
+|   41 | HappyFox | Saas | [Happy Fox Career Page](https://www.happyfox.com/jobs/chennai/) | [Happy Fox Linkedin](https://www.linkedin.com/company/happyfox-inc-/) | [ Other Openings ](https://happyfox.hire.trakstar.com/#content) |
+|   42 | Crayondata | AI/Saas | [Crayondata Career Page](https://crayondata.zohorecruit.com/jobs/Opening) | [Crayondata Linkedin](https://www.linkedin.com/company/crayondata/) | [ Other Openings ](https://www.linkedin.com/company/crayondata/jobs/) |
+|   43 | HippoVideo | Video/saas | [HippoVideo Career Page](https://www.hippovideo.io/careers.html) | [HippoVideo Linkedin](https://www.linkedin.com/company/lyceumhippo/) | [ Other Openings ](mailto:support@hippovideo.io) |
+
 
 
  
