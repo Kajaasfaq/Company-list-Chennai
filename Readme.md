@@ -63,9 +63,6 @@
 |   49 | Fleet Studio | IT | [Fleet Studio Career Page](https://fleetstudio.com/careers/) | [Fleet Studio Linkedin](https://www.linkedin.com/company/fleetstudio/) | [ Other Openings ](https://fleetstudio.freshteam.com/jobs) |
 |   50  | DHL |  Logistics | [DHL Career Page](https://careers.dhl.com/apac/en) | [DHL Linkedin](https://www.linkedin.com/company/dhl/) | [ Other Openings ](https://careers.dhl.com/apac/en/search-results?keywords=&from=30&s=1) |
 
-
-
-
  
 
 ## Final Note
