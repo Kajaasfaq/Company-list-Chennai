@@ -55,6 +55,14 @@
 |   41 | HappyFox | Saas | [Happy Fox Career Page](https://www.happyfox.com/jobs/chennai/) | [Happy Fox Linkedin](https://www.linkedin.com/company/happyfox-inc-/) | [ Other Openings ](https://happyfox.hire.trakstar.com/#content) |
 |   42 | Crayondata | AI/Saas | [Crayondata Career Page](https://crayondata.zohorecruit.com/jobs/Opening) | [Crayondata Linkedin](https://www.linkedin.com/company/crayondata/) | [ Other Openings ](https://www.linkedin.com/company/crayondata/jobs/) |
 |   43 | HippoVideo | Video/saas | [HippoVideo Career Page](https://www.hippovideo.io/careers.html) | [HippoVideo Linkedin](https://www.linkedin.com/company/lyceumhippo/) | [ Other Openings ](mailto:support@hippovideo.io) |
+|   44 | Spintadigital | Advertising Services | [spintadigital Career Page](https://www.spintadigital.com/career) | [Spintadigital Linkedin](https://www.linkedin.com/company/spinta-digital/) | [ Email ](mailto:hr@spintadigital.com) |
+|   45 | Photon | IT Services | [Photon Career Page](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2) | [HippoVideo Linkedin](https://www.linkedin.com/company/photon-interactive/) | [ Other Openings ](https://photon.com/contact-us) |
+|   46 | Valeo | Motor Vehicle Parts | [ Valeo Career Page](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e) | [Valeo Linkedin](https://www.linkedin.com/company/valeo/) | [ Other Openings ](https://www.valeo.com/en/find-a-job-or-internship/) |
+|   47 | UST | IT | [UST Career Page](https://fa-erwh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions?location=India&locationId=300000000433119&locationLevel=country&mode=location) | [UST Linkedin](https://www.linkedin.com/company/ustglobal/) | [ Other Openings ](https://fa-erwh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions?lastSelectedFacet=LOCATIONS&location=India&locationId=300000000433119&locationLevel=country&mode=location&selectedLocationsFacet=300000002860066) |
+|   48 | Arcadia | Software Development | [Arcadia Career Page](https://www.arcadia.com/careers) | [Arcadia Linkedin](https://www.linkedin.com/company/arcadiahq/) | [ Other Openings ](https://boards.greenhouse.io/arcadiacareers) |
+|   49 | Fleet Studio | IT | [Fleet Studio Career Page](https://fleetstudio.com/careers/) | [Fleet Studio Linkedin](https://www.linkedin.com/company/fleetstudio/) | [ Other Openings ](https://fleetstudio.freshteam.com/jobs) |
+|   50  | DHL |  Logistics | [DHL Career Page](https://careers.dhl.com/apac/en) | [DHL Linkedin](https://www.linkedin.com/company/dhl/) | [ Other Openings ](https://careers.dhl.com/apac/en/search-results?keywords=&from=30&s=1) |
+
 
 
 
