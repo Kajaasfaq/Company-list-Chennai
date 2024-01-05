@@ -62,6 +62,12 @@
 |   48 | Arcadia | Software Development | [Arcadia Career Page](https://www.arcadia.com/careers) | [Arcadia Linkedin](https://www.linkedin.com/company/arcadiahq/) | [ Other Openings ](https://boards.greenhouse.io/arcadiacareers) |
 |   49 | Fleet Studio | IT | [Fleet Studio Career Page](https://fleetstudio.com/careers/) | [Fleet Studio Linkedin](https://www.linkedin.com/company/fleetstudio/) | [ Other Openings ](https://fleetstudio.freshteam.com/jobs) |
 |   50  | DHL |  Logistics | [DHL Career Page](https://careers.dhl.com/apac/en) | [DHL Linkedin](https://www.linkedin.com/company/dhl/) | [ Other Openings ](https://careers.dhl.com/apac/en/search-results?keywords=&from=30&s=1) |
+|   51  | testsigma | Saas | [testsigma Career Page](https://testsigma.com/careers) | [testsigma Linkedin](https://www.linkedin.com/company/testsigma/) | [ Other Openings ](https://testsigma.com/contactus) |
+|   52  | Fullfily | Transportation | [Fullfily Career Page](https://fullfily.com/career) | [Fullfily Linkedin](https://www.linkedin.com/company/fullfily/) | [ Other Openings ](https://fullfily.com/contactUs) |
+
+
+
+
 
  
 
