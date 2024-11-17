@@ -75,7 +75,7 @@
 |   61  | Shell | Oil and Gas | [Shell Career Page](https://jobs.shell.com/search-jobs) | [Shell Linkedin](https://www.linkedin.com/company/shell/) | [ Other Openings ](https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/userHome) |
 |   62  | Petrofac | Oil and Gas | [petrofac Career Page](https://petrofac.referrals.selectminds.com/) | [petrofac Linkedin](https://www.linkedin.com/company/petrofac_3) | [ Other Openings ](https://www.petrofac.com/careers/find-a-job-at-petrofac/find-a-job-in-india/) |
 |   63  | Anthology | IT | [Anthology Career Page](https://careers.anthology.com/search/jobs) | [Anthology Linkedin](https://www.linkedin.com/company/anthologyinc/mycompany/) | [ Other Openings ](https://careers.anthology.com/search/jobs/in/country/india) |
-|   63  | UST Global | IT | [UST Global Career Page](https://www.ust.com/en/careers) | [UST Global Linkedin](https://www.linkedin.com/company/ustglobal/) | [ Other Openings ](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#list) |
+|   64  | UST Global | IT | [UST Global Career Page](https://www.ust.com/en/careers) | [UST Global Linkedin](https://www.linkedin.com/company/ustglobal/) | [ Other Openings ](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#list) |
 
 
 ## Final Note
