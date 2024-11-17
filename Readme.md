@@ -72,7 +72,10 @@
 |   58  | Ford | Automobile manufacture | [Ford Career Page](https://www.careers.ford.com/en/home.html) | [Ford Linkedin](https://www.linkedin.com/company/ford-motor-company/) | [ Other Openings ](https://www.careers.ford.com/en/programs/recent-graduate-programs.html) |
 |   59  | DXC Technology | IT | [DXC Technology Career Page](https://careers.dxc.com/global/en/search-results?qcity=Chennai&qcountry=India) | [DXC Technology  Linkedin](https://www.linkedin.com/company/dxctechnology/) | [ Other Openings ](https://careers.dxc.com/global/en/c/apprentice-and-interns-jobs) |
 |   60  | Telliant Systems | IT | [Telliant Systems Career Page](https://www.telliant.com/careers/?st=current-job-openings) | [Telliant Systems  Linkedin](https://www.linkedin.com/company/telliant-systems/) | [ Other Openings ](https://www.telliant.com/submit-resume/) |
- 
+|   61  | Shell | Oil and Gas | [Shell Career Page](https://jobs.shell.com/search-jobs) | [Shell Linkedin](https://www.linkedin.com/company/shell/) | [ Other Openings ](https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/userHome) |
+|   62  | Petrofac | Oil and Gas | [petrofac Career Page](https://petrofac.referrals.selectminds.com/) | [petrofac Linkedin](https://www.linkedin.com/company/petrofac_3) | [ Other Openings ](https://www.petrofac.com/careers/find-a-job-at-petrofac/find-a-job-in-india/) |
+|   63  | Anthology | IT | [Anthology Career Page](https://careers.anthology.com/search/jobs) | [Anthology Linkedin](https://www.linkedin.com/company/anthologyinc/mycompany/) | [ Other Openings ](https://careers.anthology.com/search/jobs/in/country/india) |
+
 
 ## Final Note
 
