@@ -76,6 +76,9 @@
 |   62  | Petrofac | Oil and Gas | [petrofac Career Page](https://petrofac.referrals.selectminds.com/) | [petrofac Linkedin](https://www.linkedin.com/company/petrofac_3) | [ Other Openings ](https://www.petrofac.com/careers/find-a-job-at-petrofac/find-a-job-in-india/) |
 |   63  | Anthology | IT | [Anthology Career Page](https://careers.anthology.com/search/jobs) | [Anthology Linkedin](https://www.linkedin.com/company/anthologyinc/mycompany/) | [ Other Openings ](https://careers.anthology.com/search/jobs/in/country/india) |
 |   64  | UST Global | IT | [UST Global Career Page](https://www.ust.com/en/careers) | [UST Global Linkedin](https://www.linkedin.com/company/ustglobal/) | [ Other Openings ](https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#list) |
+|   65  | PAPERFLITE | Saas | [PAPERFLITE Career Page](https://paperflite.careers.evalgator.com/careers/job-list) | [PAPERFLITE Linkedin](https://linkedin.com/company/paperflite) | [ Other Openings ](https://paperflite.careers.evalgator.com/careers/job-list) |
+|   66  | Light & Wonder | Gaming | [Light & Wonder Career Page](https://lnw.com/careers) | [Light & Wonder Linkedin](https://www.linkedin.com/company/lightnwonder/) | [ Other Openings ](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers) |
+|   67  | Lumina Datamatics | IT | [Lumina Datamatics Career Page](https://www.luminadatamatics.com/people/careers/) | [Lumina Datamatics Linkedin](https://www.linkedin.com/company/lumina-datamatics/?originalSubdomain=in) | [ Other Openings ](https://www.luminadatamatics.com/people/careers/) |
 
 
 ## Final Note
