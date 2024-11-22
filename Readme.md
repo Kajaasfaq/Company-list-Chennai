@@ -82,6 +82,9 @@
 |   68  | Bank of America | Bank | [Bank of America Career Page](https://careers.bankofamerica.com/en-us/job-search) | [Bank of America Linkedin](https://www.linkedin.com/company/bank-of-america/) | [ Other Openings ](https://careers.bankofamerica.com/en-us/students/job-search) |
 |   69  | Microsoft | Tech | [Microsoft Career Page](https://jobs.careers.microsoft.com/global/en/search?lc=Chennai%2C%20Tamil%20Nadu%2C%20India) | [Microsoft Linkedin](https://www.linkedin.com/company/microsoft) | [ Other Openings ](https://jobs.careers.microsoft.com/global/en/search?lc=India&exp=Students%20and%20graduates&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true&ulcs=false&ref=cms) |
 |   70  | Amazon | E-Com/IT | [Amazon Career Page](https://amazon.jobs/content/en/job-categories/software-development?country%5B%5D=IN) | [Amazon Linkedin](https://www.linkedin.com/company/amazon/) | [ Other Openings ](https://amazon.jobs/content/en/career-programs/university#search) |
+|   71  | Temenos | IT | [Temenos Career Page](https://www.temenos.com/about-us/careers/) | [Temenos Linkedin](https://www.linkedin.com/company/temenos) | [ Other Openings ](https://temenos.csod.com/ux/ats/careersite/4/home?c=temenos) |
+|   72  | Prodapt | IT | [Prodapt Career Page](https://career-portal.prodapt.com/) | [Prodapt Linkedin](https://www.linkedin.com/company/prodapt/) | [ Other Openings ](https://careersind-prodapt.icims.com/jobs/intro) |
+|   73  | Grundfos | IT | [Grundfos Career Page](https://www.grundfos.com/careers) | [Grundfos Linkedin](https://www.linkedin.com/company/grundfos/) | [ Other Openings ](https://jobs.grundfos.com/search/?q=Chennai&) |
 
 
 
