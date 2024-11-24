@@ -89,8 +89,8 @@
 |   75 | Dow Inc | Chemical Manufacturing | [Dow inc Career Page](https://corporate.dow.com/en-us/careers.html) | [Dow Inc Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://corporate.dow.com/en-us/search.html#q=chennai&t=All&sort=relevancy) |
 |   76 | Dentsu | Advertising Services | [Dentsu Career Page](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL) | [Dentsu Linkedin](https://www.linkedin.com/company/dentsu/) | [ Other Openings ](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e) |
 |   77 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
-
-
+|   78 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
+|   79 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
 
 
 
