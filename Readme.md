@@ -88,9 +88,10 @@
 |   74 | DTCC | Financial Services | [DTCC Career Page](https://www.dtcc.com/careers?utm_source=LinkedIn_Slots&utm_medium=jobboard) | [DTCC Linkedin](https://www.linkedin.com/company/dtcc/) | [ Other Openings ](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) |
 |   75 | Dow Inc | Chemical Manufacturing | [Dow inc Career Page](https://corporate.dow.com/en-us/careers.html) | [Dow Inc Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://corporate.dow.com/en-us/search.html#q=chennai&t=All&sort=relevancy) |
 |   76 | Dentsu | Advertising Services | [Dentsu Career Page](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL) | [Dentsu Linkedin](https://www.linkedin.com/company/dentsu/) | [ Other Openings ](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e) |
-|   77 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
-|   78 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
-|   79 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/dow-chemical/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
+|   77 | Pando | IT | [Pando Career Page](https://pando.ai/company/life-at-pando) | [Pando Linkedin](https://www.linkedin.com/company/pandocorp/) | [ Other Openings ](https://careers.pando.ai/jobs/Careers) |
+|   78 | Mx Technologies Inc | IT | [Mx Technologies Inc Career Page](https://www.mx.com/careers/) | [Mx Technologies Inc Linkedin](https://www.linkedin.com/company/mxenabled/) | [ Other Openings ](https://mx.wd1.myworkdayjobs.com/en-US/MX-IND) |
+|   79 | Clarivate | IT | [Clarivate Career Page](https://careers.clarivate.com/search-results) | [Clarivate Linkedin](https://www.linkedin.com/company/clarivate/) | [ Other Openings ](https://careers.clarivate.com/search-results) |
+|   80 | Raptee | EV / Automobile | [Raptee Career Page](https://rapteehv.com/careers) | [Raptee Linkedin](https://www.linkedin.com/company/rapteeenergy/) | [ Other Openings ](https://rapteehv.com/careers) |
 
 
 
