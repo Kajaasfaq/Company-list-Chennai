@@ -92,6 +92,8 @@
 |   78 | Mx Technologies Inc | IT | [Mx Technologies Inc Career Page](https://www.mx.com/careers/) | [Mx Technologies Inc Linkedin](https://www.linkedin.com/company/mxenabled/) | [ Other Openings ](https://mx.wd1.myworkdayjobs.com/en-US/MX-IND) |
 |   79 | Clarivate | IT | [Clarivate Career Page](https://careers.clarivate.com/search-results) | [Clarivate Linkedin](https://www.linkedin.com/company/clarivate/) | [ Other Openings ](https://careers.clarivate.com/search-results) |
 |   80 | Raptee | EV / Automobile | [Raptee Career Page](https://rapteehv.com/careers) | [Raptee Linkedin](https://www.linkedin.com/company/rapteeenergy/) | [ Other Openings ](https://rapteehv.com/careers) |
+|   81 | PayPal | payment Gateways | [PayPal Career Page](https://careers.pypl.com/home/default.aspx) | [PayPal Linkedin](https://www.linkedin.com/company/paypal/) | [ Other Openings ](https://careers.pypl.com/categories/default.aspx) |
+|   82 | Poshmark | Ecom/IT | [Poshmark Career Page](https://poshmark.com/careers) | [Poshmark Linkedin](https://www.linkedin.com/company/poshmark/) | [ Other Openings ](https://poshmark.wd5.myworkdayjobs.com/en-US/Poshmark_Careers) |
 
 
 
