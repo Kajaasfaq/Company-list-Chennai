@@ -94,6 +94,8 @@
 |   80 | Raptee | EV / Automobile | [Raptee Career Page](https://rapteehv.com/careers) | [Raptee Linkedin](https://www.linkedin.com/company/rapteeenergy/) | [ Other Openings ](https://rapteehv.com/careers) |
 |   81 | PayPal | payment Gateways | [PayPal Career Page](https://careers.pypl.com/home/default.aspx) | [PayPal Linkedin](https://www.linkedin.com/company/paypal/) | [ Other Openings ](https://careers.pypl.com/categories/default.aspx) |
 |   82 | Poshmark | Ecom/IT | [Poshmark Career Page](https://poshmark.com/careers) | [Poshmark Linkedin](https://www.linkedin.com/company/poshmark/) | [ Other Openings ](https://poshmark.wd5.myworkdayjobs.com/en-US/Poshmark_Careers) |
+|   83 | Sanmina | Appliances, Electrical, and Electronics Manufacturing | [Sanmina Career Page](https://careers.sanmina.com/) | [Sanmina Linkedin](https://linkedin.com/company/sanmina/) | [ Other Openings ](https://sanminacareers.mua.hrdepartment.com/hr/ats/JobSearch/viewAll) |
+|   84 | Payoda Technology Inc | IT | [Payoda Technology Inc Career Page](https://www.payoda.com/careers/) | [Payoda Technology Inc Linkedin](https://www.linkedin.com/company/payodatechnology/) | [ Email ](mailto:joinus@payoda.com) |
 
 
 
