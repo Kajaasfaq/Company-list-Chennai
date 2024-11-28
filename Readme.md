@@ -96,8 +96,8 @@
 |   82 | Poshmark | Ecom/IT | [Poshmark Career Page](https://poshmark.com/careers) | [Poshmark Linkedin](https://www.linkedin.com/company/poshmark/) | [ Other Openings ](https://poshmark.wd5.myworkdayjobs.com/en-US/Poshmark_Careers) |
 |   83 | Sanmina | Appliances, Electrical, and Electronics Manufacturing | [Sanmina Career Page](https://careers.sanmina.com/) | [Sanmina Linkedin](https://linkedin.com/company/sanmina/) | [ Other Openings ](https://sanminacareers.mua.hrdepartment.com/hr/ats/JobSearch/viewAll) |
 |   84 | Payoda Technology Inc | IT | [Payoda Technology Inc Career Page](https://www.payoda.com/careers/) | [Payoda Technology Inc Linkedin](https://www.linkedin.com/company/payodatechnology/) | [ Email ](mailto:joinus@payoda.com) |
-|   84 | FedEX | Package Transportation | [FedEX Career Page](https://careers.fedex.com/) | [FedEX Linkedin](https://www.linkedin.com/company/fedex/) | [ Other Openings ](https://careers.fedex.com/jobs?location_name=Chennai&location_type=1) |
-|   84 | Hp | IT | [HP Career Page](https://jobs.hp.com/us/) | [HP Linkedin](https://www.linkedin.com/company/hp) | [ Other Openings ](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) |
+|   85 | FedEX | Package Transportation | [FedEX Career Page](https://careers.fedex.com/) | [FedEX Linkedin](https://www.linkedin.com/company/fedex/) | [ Other Openings ](https://careers.fedex.com/jobs?location_name=Chennai&location_type=1) |
+|   86 | Hp | IT | [HP Career Page](https://jobs.hp.com/us/) | [HP Linkedin](https://www.linkedin.com/company/hp) | [ Other Openings ](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) |
 
 
 
