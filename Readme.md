@@ -100,6 +100,8 @@
 |   86 | Hp | IT | [HP Career Page](https://jobs.hp.com/us/) | [HP Linkedin](https://www.linkedin.com/company/hp) | [ Other Openings ](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) |
 |   87 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
 |   88 | KPMG | Business Consulting and Services | [KPMG Career Page](https://kpmg.com/in/en/home/careers.html) | [KPMG Linkedin](https://www.linkedin.com/company/kpmgindia/) | [ Other Openings ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=Chennai%2C+Tamil+Nadu%2C+India&locationId=300002240962496&locationLevel=city&mode=location&radius=25&radiusUnit=KM) |
+|   89 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
+|   90 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
 
 
 
