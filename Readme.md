@@ -100,23 +100,23 @@
 |   86 | Hp | IT | [HP Career Page](https://jobs.hp.com/us/) | [HP Linkedin](https://www.linkedin.com/company/hp) | [ Other Openings ](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) |
 |   87 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
 |   88 | KPMG | Business Consulting and Services | [KPMG Career Page](https://kpmg.com/in/en/home/careers.html) | [KPMG Linkedin](https://www.linkedin.com/company/kpmgindia/) | [ Other Openings ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=Chennai%2C+Tamil+Nadu%2C+India&locationId=300002240962496&locationLevel=city&mode=location&radius=25&radiusUnit=KM) |
-|   89 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
-|   90 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
-|   91 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
-|   92 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
-|   92 | Agilysys NV LLC | IT | [Agilysys NV LLC Career Page](https://www.agilysys.com/en/career/) | [Agilysys NV LLC Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.jobvite.com/agilysys/jobs) |
+|   89 | ZF | Motor Vehicle Manufacturing | [ZF Career Page](https://jobs.zf.com/go/All-Jobs/3630801/) | [ZF Linkedin](https://www.linkedin.com/company/agilysys/) | [ Other Openings ](https://jobs.zf.com/go/Students/3636101/) |
+|   90 | Getronics | IT | [Getronics Career Page](https://www.getronics.com/careers/) | [Getronics Linkedin](https://www.linkedin.com/company/getronics/) | [ Other Openings ](https://www.getronics.com/careers/jobs/) |
+|   91 | GlobalLogic | IT | [GlobalLogic Career Page](https://www.globallogic.com/in/careers/) | [GlobalLogic Linkedin](https://www.linkedin.com/company/globallogic/) | [ Other Openings ](https://www.globallogic.com/in/career-search-page/?keywords=&experience=&locations=chennai&c=) |
+|   92 | Sagent M&C LLC | IT | [Sagent M&C LLC Career Page](https://sagent.com/careers/) | [Sagent M&C LLC Linkedin](https://www.linkedin.com/company/sagent-lending-technologies/) | [ Other Openings ](https://job-boards.greenhouse.io/sagent) |
+|   93 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 
 
 
 
 
-## Final Note
+## 👋 Final Note
 
 Thank you for visiting This Repo! I hope it serves your needs well. If you like, consider starring ⭐ the repository and sharing it with others.
 
 Stay connected for more updates and feel free to contribute or provide feedback. Together, we make this project even better!
 
-## 👋
+
 
 ---
  
