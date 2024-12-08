@@ -107,7 +107,6 @@
 |   93 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 |   94 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 |   95 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
-|   96 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 
 
 
