@@ -106,7 +106,7 @@
 |   92 | Sagent M&C LLC | IT | [Sagent M&C LLC Career Page](https://sagent.com/careers/) | [Sagent M&C LLC Linkedin](https://www.linkedin.com/company/sagent-lending-technologies/) | [ Other Openings ](https://job-boards.greenhouse.io/sagent) |
 |   93 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 |   94 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
-|   95 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
+
 
 
 
