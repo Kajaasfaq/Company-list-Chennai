@@ -105,7 +105,8 @@
 |   91 | GlobalLogic | IT | [GlobalLogic Career Page](https://www.globallogic.com/in/careers/) | [GlobalLogic Linkedin](https://www.linkedin.com/company/globallogic/) | [ Other Openings ](https://www.globallogic.com/in/career-search-page/?keywords=&experience=&locations=chennai&c=) |
 |   92 | Sagent M&C LLC | IT | [Sagent M&C LLC Career Page](https://sagent.com/careers/) | [Sagent M&C LLC Linkedin](https://www.linkedin.com/company/sagent-lending-technologies/) | [ Other Openings ](https://job-boards.greenhouse.io/sagent) |
 |   93 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
-
+|   94 | YouTrip | IT | [YouTrip Career Page](https://www.you.co/sg/careers/) | [YouTrip Linkedin](https://www.linkedin.com/company/youtrip/) | [ Other Openings ](wearehiring@you.co) |
+|   95 | Rocket Software Inc | IT | [Rocket Software Inc Career Page](https://www.rocketsoftware.com/rocket-jobs) | [Rocket Software Inc Linkedin](https://www.linkedin.com/company/rocket-software/) | [ Other Openings ](https://rocket.wd5.myworkdayjobs.com/rocket_careers) |
 
 
 
