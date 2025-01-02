@@ -107,6 +107,10 @@
 |   93 | Workday | IT | [Workday Career Page](https://www.workday.com/en-us/company/careers/overview.html) | [Workday Linkedin](https://www.linkedin.com/company/workday/) | [ Other Openings ](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/) |
 |   94 | YouTrip | IT | [YouTrip Career Page](https://www.you.co/sg/careers/) | [YouTrip Linkedin](https://www.linkedin.com/company/youtrip/) | [ Other Openings ](wearehiring@you.co) |
 |   95 | Rocket Software Inc | IT | [Rocket Software Inc Career Page](https://www.rocketsoftware.com/rocket-jobs) | [Rocket Software Inc Linkedin](https://www.linkedin.com/company/rocket-software/) | [ Other Openings ](https://rocket.wd5.myworkdayjobs.com/rocket_careers) |
+|   96 | SquareShift Technologies | IT | [SquareShift Technologies Career Page](https://www.squareshift.co/careers) | [SquareShift Technologies  Linkedin](https://www.linkedin.com/company/squareshift/) | [ Other Openings ](https://squareshift.zohorecruit.com/jobs/Careers) |
+|   97 | Verizon | IT Services | [Verizon Technologies Career Page](https://mycareer.verizon.com/) | [Verizon Linkedin](https://www.linkedin.com/company/verizon/) | [ Other Openings ](https://mycareer.verizon.com/jobs/?search=&country=India&location=Chennai&pagesize=20#results) |
+|   98 | Valor PayTech | IT | [Valor PayTech Technologies Career Page](https://valorpaytech.com/get-to-know-us/join-our-team/) | [Valor PayTech Technologies Linkedin](https://www.linkedin.com/company/valor-paytech/) | [ Other Openings ](https://valorpaytech.com/get-to-know-us/join-our-team/?Teams=Gateway&Department=Gateway#form) |
+
 
 
 
