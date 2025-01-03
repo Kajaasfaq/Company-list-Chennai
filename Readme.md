@@ -110,6 +110,9 @@
 |   96 | SquareShift Technologies | IT | [SquareShift Technologies Career Page](https://www.squareshift.co/careers) | [SquareShift Technologies  Linkedin](https://www.linkedin.com/company/squareshift/) | [ Other Openings ](https://squareshift.zohorecruit.com/jobs/Careers) |
 |   97 | Verizon | IT Services | [Verizon Technologies Career Page](https://mycareer.verizon.com/) | [Verizon Linkedin](https://www.linkedin.com/company/verizon/) | [ Other Openings ](https://mycareer.verizon.com/jobs/?search=&country=India&location=Chennai&pagesize=20#results) |
 |   98 | Valor PayTech | IT | [Valor PayTech Technologies Career Page](https://valorpaytech.com/get-to-know-us/join-our-team/) | [Valor PayTech Technologies Linkedin](https://www.linkedin.com/company/valor-paytech/) | [ Other Openings ](https://valorpaytech.com/get-to-know-us/join-our-team/?Teams=Gateway&Department=Gateway#form) |
+|   99 | Logitech | Electronics Manufacturing | [Logitech Career Page](https://jobs.jobvite.com/logitech) | [Logitech Linkedin](https://www.linkedin.com/company/logitech/) | [ Other Openings ](https://jobs.jobvite.com/logitech/jobs) |
+|  100 | TransUnion LLC | IT | [TransUnion LLC Career Page](https://www.transunion.com/about-us/careers) | [TransUnion LLC Linkedin](https://www.linkedin.com/company/transunion) | [ Other Openings ](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion) |
+
 
 
 
