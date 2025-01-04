@@ -112,6 +112,8 @@
 |   98 | Valor PayTech | IT | [Valor PayTech Technologies Career Page](https://valorpaytech.com/get-to-know-us/join-our-team/) | [Valor PayTech Technologies Linkedin](https://www.linkedin.com/company/valor-paytech/) | [ Other Openings ](https://valorpaytech.com/get-to-know-us/join-our-team/?Teams=Gateway&Department=Gateway#form) |
 |   99 | Logitech | Electronics Manufacturing | [Logitech Career Page](https://jobs.jobvite.com/logitech) | [Logitech Linkedin](https://www.linkedin.com/company/logitech/) | [ Other Openings ](https://jobs.jobvite.com/logitech/jobs) |
 |  100 | TransUnion LLC | IT | [TransUnion LLC Career Page](https://www.transunion.com/about-us/careers) | [TransUnion LLC Linkedin](https://www.linkedin.com/company/transunion) | [ Other Openings ](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion) |
+|  101 | Sedin Technologies | IT | [Sedin Technologies Career Page](https://sedintechnologies.com/opportunities/) | [Sedin Technologies Linkedin](https://www.linkedin.com/company/sedin-technologies/) | [ Other Openings ](https://sedintechnologies-talent.freshteam.com/jobs) |
+|  102 | AntWorks | IT | [AntWorks Career Page](https://www.ant.works/careers/) | [AntWorks Linkedin](https://www.linkedin.com/company/antworksglobal/) | [ Other Openings ](https://www.ant.works/careers/#jobs) |
 
 
 
