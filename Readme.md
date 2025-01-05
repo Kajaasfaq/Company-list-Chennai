@@ -114,6 +114,9 @@
 |  100 | TransUnion LLC | IT | [TransUnion LLC Career Page](https://www.transunion.com/about-us/careers) | [TransUnion LLC Linkedin](https://www.linkedin.com/company/transunion) | [ Other Openings ](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion) |
 |  101 | Sedin Technologies | IT | [Sedin Technologies Career Page](https://sedintechnologies.com/opportunities/) | [Sedin Technologies Linkedin](https://www.linkedin.com/company/sedin-technologies/) | [ Other Openings ](https://sedintechnologies-talent.freshteam.com/jobs) |
 |  102 | AntWorks | IT | [AntWorks Career Page](https://www.ant.works/careers/) | [AntWorks Linkedin](https://www.linkedin.com/company/antworksglobal/) | [ Other Openings ](https://www.ant.works/careers/#jobs) |
+|  103 | Hottinger Brüel & Kjaer | Machinery Manufacturing | [Hottinger Brüel & Kjaer Career Page](https://www.hbkworld.com/en/about/careers) | [Hottinger Brüel & Kjaer Linkedin](https://www.linkedin.com/company/hbkworld-test-and-measurement/) | [ Other Openings ](https://spectris.wd3.myworkdayjobs.com/en-US/HBK_Careers) |
+|  104 | K7 Computing | IT | [K7 Computing Career Page](https://www.k7computing.com/us/careers) | [K7 Computing Linkedin](https://www.linkedin.com/company/k7-computing/) | [ Other Openings ](https://careers.k7computing.com/) |
+|  105 | ZeroNorth | IT | [ZeroNorth Career Page](https://careers.zeronorth.com/) | [ZeroNorth Linkedin](https://www.linkedin.com/company/zeronorthas/) | [ Other Openings ](https://careers.zeronorth.com/jobs) |
 
 
 
