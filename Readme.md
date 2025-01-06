@@ -117,6 +117,8 @@
 |  103 | Hottinger Brüel & Kjaer | Machinery Manufacturing | [Hottinger Brüel & Kjaer Career Page](https://www.hbkworld.com/en/about/careers) | [Hottinger Brüel & Kjaer Linkedin](https://www.linkedin.com/company/hbkworld-test-and-measurement/) | [ Other Openings ](https://spectris.wd3.myworkdayjobs.com/en-US/HBK_Careers) |
 |  104 | K7 Computing | IT | [K7 Computing Career Page](https://www.k7computing.com/us/careers) | [K7 Computing Linkedin](https://www.linkedin.com/company/k7-computing/) | [ Other Openings ](https://careers.k7computing.com/) |
 |  105 | ZeroNorth | IT | [ZeroNorth Career Page](https://careers.zeronorth.com/) | [ZeroNorth Linkedin](https://www.linkedin.com/company/zeronorthas/) | [ Other Openings ](https://careers.zeronorth.com/jobs) |
+|  106 | Banyan Software | IT | [Banyan Software Career Page](https://banyansoftware.com/careers/) | [Banyan Software Linkedin](https://www.linkedin.com/company/banyan-software-llc/) | [ Other Openings ](https://job-boards.greenhouse.io/banyansoftware/) |
+|  107 | OneMagnify | IT | [OneMagnify Career Page](https://www.onemagnify.com/careers) | [OneMagnify Linkedin](https://www.linkedin.com/company/onemagnify/) | [ Other Openings ](https://onemagnify.wd5.myworkdayjobs.com/en-US/OneMagnify_Careers) |
 
 
 
