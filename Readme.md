@@ -119,8 +119,7 @@
 |  105 | ZeroNorth | IT | [ZeroNorth Career Page](https://careers.zeronorth.com/) | [ZeroNorth Linkedin](https://www.linkedin.com/company/zeronorthas/) | [ Other Openings ](https://careers.zeronorth.com/jobs) |
 |  106 | Banyan Software | IT | [Banyan Software Career Page](https://banyansoftware.com/careers/) | [Banyan Software Linkedin](https://www.linkedin.com/company/banyan-software-llc/) | [ Other Openings ](https://job-boards.greenhouse.io/banyansoftware/) |
 |  107 | OneMagnify | IT | [OneMagnify Career Page](https://www.onemagnify.com/careers) | [OneMagnify Linkedin](https://www.linkedin.com/company/onemagnify/) | [ Other Openings ](https://onemagnify.wd5.myworkdayjobs.com/en-US/OneMagnify_Careers) |
-|  108 | OneMagnify | IT | [OneMagnify Career Page](https://www.onemagnify.com/careers) | [OneMagnify Linkedin](https://www.linkedin.com/company/onemagnify/) | [ Other Openings ](https://onemagnify.wd5.myworkdayjobs.com/en-US/OneMagnify_Careers) |
-|  109 | OneMagnify | IT | [OneMagnify Career Page](https://www.onemagnify.com/careers) | [OneMagnify Linkedin](https://www.linkedin.com/company/onemagnify/) | [ Other Openings ](https://onemagnify.wd5.myworkdayjobs.com/en-US/OneMagnify_Careers) |
+|  108 | Yuniq | IT | [Yuniq Career Page](https://yuniq.co/career/) | [Yuniq Linkedin](https://www.linkedin.com/company/yuniq-yq/) | [ Other Openings ](https://yuniq.co/career/#open-positions) |
 
 
 
