@@ -120,7 +120,8 @@
 |  106 | Banyan Software | IT | [Banyan Software Career Page](https://banyansoftware.com/careers/) | [Banyan Software Linkedin](https://www.linkedin.com/company/banyan-software-llc/) | [ Other Openings ](https://job-boards.greenhouse.io/banyansoftware/) |
 |  107 | OneMagnify | IT | [OneMagnify Career Page](https://www.onemagnify.com/careers) | [OneMagnify Linkedin](https://www.linkedin.com/company/onemagnify/) | [ Other Openings ](https://onemagnify.wd5.myworkdayjobs.com/en-US/OneMagnify_Careers) |
 |  108 | Yuniq | IT | [Yuniq Career Page](https://yuniq.co/career/) | [Yuniq Linkedin](https://www.linkedin.com/company/yuniq-yq/) | [ Other Openings ](https://yuniq.co/career/#open-positions) |
-|  109 | Yuniq | IT | [Yuniq Career Page](https://yuniq.co/career/) | [Yuniq Linkedin](https://www.linkedin.com/company/yuniq-yq/) | [ Other Openings ](https://yuniq.co/career/#open-positions) |
+|  109 | IQVIA | Health Care | [IQVIA Career Page](https://jobs.iqvia.com/en) | [IQVIA Linkedin](https://www.linkedin.com/company/iqvia/) | [ Other Openings ](https://jobs.iqvia.com/en/search-jobs) |
+|  110 |  Pearson | Education | [ Pearson Career Page](https://plc.pearson.com/en-GB/careers) | [ Pearson Linkedin](https://www.linkedin.com/company/pearson/) | [ Other Openings ](https://pearson.jobs/jobs/) |
 
 
 
