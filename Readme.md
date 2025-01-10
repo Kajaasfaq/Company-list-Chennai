@@ -122,6 +122,8 @@
 |  108 | Yuniq | IT | [Yuniq Career Page](https://yuniq.co/career/) | [Yuniq Linkedin](https://www.linkedin.com/company/yuniq-yq/) | [ Other Openings ](https://yuniq.co/career/#open-positions) |
 |  109 | IQVIA | Health Care | [IQVIA Career Page](https://jobs.iqvia.com/en) | [IQVIA Linkedin](https://www.linkedin.com/company/iqvia/) | [ Other Openings ](https://jobs.iqvia.com/en/search-jobs) |
 |  110 |  Pearson | Education | [ Pearson Career Page](https://plc.pearson.com/en-GB/careers) | [ Pearson Linkedin](https://www.linkedin.com/company/pearson/) | [ Other Openings ](https://pearson.jobs/jobs/) |
+|  111 |  Likewize | Insurance | [ Likewize Career Page](https://www.likewize.com/company/careers/) | [ Likewize Linkedin](https://www.linkedin.com/company/likewizecorp/) | [ Other Openings ](https://likewize.wd1.myworkdayjobs.com/en-US/External) |
+|  112 |  EPAM | IT Services | [ EPAM Career Page](https://www.epam.com/careers) | [ EPAM Linkedin](https://www.linkedin.com/company/epam-systems/) | [ Other Openings ](https://www.epam.com/careers/job-listings) |
 
 
 
