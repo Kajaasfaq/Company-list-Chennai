@@ -126,7 +126,9 @@
 |  112 | EPAM System | IT Services | [ EPAM System Career Page](https://www.epam.com/careers) | [ EPAM System Linkedin](https://www.linkedin.com/company/epam-systems/) | [ Other Openings ](https://www.epam.com/careers/job-listings) |
 |  113 | PDI Technologies Inc | IT Services | [ PDI Technologies Inc Career Page](https://pditechnologies.com/careers/) | [ PDI Technologies Inc Linkedin](https://www.linkedin.com/company/pdi-technologies/) | [ Other Openings ](https://pditechnologies.com/careers/#jobs) |
 |  114 | Saint-Gobain Glass | Manufacturing | [ Saint-Gobain Glass Career Page](https://in.saint-gobain-glass.com/careers) | [ Saint-Gobain Glass Linkedin](https://www.linkedin.com/company/saint-gobain-glass/) | [ Other Openings ](https://apply.in.saint-gobain-glass.com/) |
-|  115 | Digital.AI | IT | [ Digital.AI Glass Career Page](https://digital.ai/why-digital-ai/careers/) | [ Digital.AI Glass Linkedin](https://www.linkedin.com/company/digitaldotai/) | [ Other Openings ](https://digital.ai/why-digital-ai/careers/current-job-openings/) |
+|  115 | Digital.AI | IT | [ Digital.AI Glass Career Page](https://digital.ai/why-digital-ai/careers/) | [ Digital.AI Linkedin](https://www.linkedin.com/company/digitaldotai/) | [ Other Openings ](https://digital.ai/why-digital-ai/careers/current-job-openings/) |
+|  116 | Finzly | IT | [ Finzly Career Page](https://finzly.com/careers/) | [ Finzly Linkedin](https://www.linkedin.com/company/finzly) | [ Email ](mailto:careers@finzly.com) |
+|  117 | Broadcom | Semiconductor | [ Broadcom Career Page](https://www.broadcom.com/company/careers/teams) | [ Broadcom Linkedin](https://www.linkedin.com/company/broadcom/) | [ Other Openings ](https://broadcom.wd1.myworkdayjobs.com/External_Career) |
 
 
 
