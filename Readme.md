@@ -124,6 +124,9 @@
 |  110 | Pearson | Education | [ Pearson Career Page](https://plc.pearson.com/en-GB/careers) | [ Pearson Linkedin](https://www.linkedin.com/company/pearson/) | [ Other Openings ](https://pearson.jobs/jobs/) |
 |  111 | Likewize | Insurance | [ Likewize Career Page](https://www.likewize.com/company/careers/) | [ Likewize Linkedin](https://www.linkedin.com/company/likewizecorp/) | [ Other Openings ](https://likewize.wd1.myworkdayjobs.com/en-US/External) |
 |  112 | EPAM System | IT Services | [ EPAM System Career Page](https://www.epam.com/careers) | [ EPAM System Linkedin](https://www.linkedin.com/company/epam-systems/) | [ Other Openings ](https://www.epam.com/careers/job-listings) |
+|  113 | PDI Technologies Inc | IT Services | [ PDI Technologies Inc Career Page](https://pditechnologies.com/careers/) | [ PDI Technologies Inc Linkedin](https://www.linkedin.com/company/pdi-technologies/) | [ Other Openings ](https://pditechnologies.com/careers/#jobs) |
+|  114 | Saint-Gobain Glass | Manufacturing | [ Saint-Gobain Glass Career Page](https://in.saint-gobain-glass.com/careers) | [ Saint-Gobain Glass Linkedin](https://www.linkedin.com/company/saint-gobain-glass/) | [ Other Openings ](https://apply.in.saint-gobain-glass.com/) |
+|  115 | Digital.AI | IT | [ Digital.AI Glass Career Page](https://digital.ai/why-digital-ai/careers/) | [ Digital.AI Glass Linkedin](https://www.linkedin.com/company/digitaldotai/) | [ Other Openings ](https://digital.ai/why-digital-ai/careers/current-job-openings/) |
 
 
 
