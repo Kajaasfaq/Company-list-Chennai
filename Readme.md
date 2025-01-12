@@ -129,6 +129,9 @@
 |  115 | Digital.AI | IT | [ Digital.AI Glass Career Page](https://digital.ai/why-digital-ai/careers/) | [ Digital.AI Linkedin](https://www.linkedin.com/company/digitaldotai/) | [ Other Openings ](https://digital.ai/why-digital-ai/careers/current-job-openings/) |
 |  116 | Finzly | IT | [ Finzly Career Page](https://finzly.com/careers/) | [ Finzly Linkedin](https://www.linkedin.com/company/finzly) | [ Email ](mailto:careers@finzly.com) |
 |  117 | Broadcom | Semiconductor | [ Broadcom Career Page](https://www.broadcom.com/company/careers/teams) | [ Broadcom Linkedin](https://www.linkedin.com/company/broadcom/) | [ Other Openings ](https://broadcom.wd1.myworkdayjobs.com/External_Career) |
+|  118 | ADP | IT | [ ADP Career Page](https://tech.adp.com/en/careers/) | [ ADP Linkedin](https://www.linkedin.com/company/adp/) | [ Other Openings ](https://tech.adp.com/en/jobs/) |
+|  119 | Calibraint | IT | [ Calibraint Career Page](https://www.calibraint.com/careers) | [ Calibraint Linkedin](https://www.linkedin.com/company/calibraint) | [ Other Openings ](https://calibraint.keka.com/careers/) |
+|  120 | ePlane Company | Aviation and Aerospace | [ ePlane Company Career Page](https://www.eplane.ai/careers) | [ ePlane Company Linkedin](https://www.linkedin.com/company/the-eplane-company/) | [ Other Openings ](https://eplane-team.freshteam.com/jobs) |
 
 
 
