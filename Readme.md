@@ -132,6 +132,8 @@
 |  118 | ADP | IT | [ ADP Career Page](https://tech.adp.com/en/careers/) | [ ADP Linkedin](https://www.linkedin.com/company/adp/) | [ Other Openings ](https://tech.adp.com/en/jobs/) |
 |  119 | Calibraint | IT | [ Calibraint Career Page](https://www.calibraint.com/careers) | [ Calibraint Linkedin](https://www.linkedin.com/company/calibraint) | [ Other Openings ](https://calibraint.keka.com/careers/) |
 |  120 | ePlane Company | Aviation and Aerospace | [ ePlane Company Career Page](https://www.eplane.ai/careers) | [ ePlane Company Linkedin](https://www.linkedin.com/company/the-eplane-company/) | [ Other Openings ](https://eplane-team.freshteam.com/jobs) |
+|  121 | LatentView Analytics | IT | [ LatentView Analytics Career Page](https://www.latentview.com/career/) | [ LatentView Analytics Linkedin](https://www.linkedin.com/company/latentview-analytics/) | [ Other Openings ](https://latentview.darwinbox.in/ms/candidate/careers) |
+|  122 | Matrimony.com | IT | [ Matrimony.com Career Page](https://www.matrimony.com/careers) | [ Matrimony.com Linkedin](https://www.linkedin.com/company/matrimony-com/) | [ Other Openings ](https://matrimonycareers.peoplestrong.com/job/joblist) |
 
 
 
