@@ -134,6 +134,9 @@
 |  120 | ePlane Company | Aviation and Aerospace | [ ePlane Company Career Page](https://www.eplane.ai/careers) | [ ePlane Company Linkedin](https://www.linkedin.com/company/the-eplane-company/) | [ Other Openings ](https://eplane-team.freshteam.com/jobs) |
 |  121 | LatentView Analytics | IT | [ LatentView Analytics Career Page](https://www.latentview.com/career/) | [ LatentView Analytics Linkedin](https://www.linkedin.com/company/latentview-analytics/) | [ Other Openings ](https://latentview.darwinbox.in/ms/candidate/careers) |
 |  122 | Matrimony.com | IT | [ Matrimony.com Career Page](https://www.matrimony.com/careers) | [ Matrimony.com Linkedin](https://www.linkedin.com/company/matrimony-com/) | [ Other Openings ](https://matrimonycareers.peoplestrong.com/job/joblist) |
+|  123 | NKT A S | Electronics Manufacturing | [ NKT A S Career Page](https://www.nkt.com/career) | [ NKT A S Linkedin](https://www.linkedin.com/company/nkt-cables/) | [ Other Openings ](https://www.nkt.com/career/job-search) |
+|  124 | QualityKiosk Technologies | IT | [ QualityKiosk Career Page](https://qualitykiosk.com/careers/) | [ QualityKiosk Linkedin](https://www.linkedin.com/company/quality-kiosk-technologies/) | [ Other Openings ](https://careers-qualitykiosk.peoplestrong.com/job/joblist) |
+|  125 | Sysvine Technologies | IT | [ Sysvine Technologies Career Page](https://sysvine.com/careers) | [ Sysvine Technologies Linkedin](https://www.linkedin.com/company/sysvine-technologies/) | [ Other Openings ](https://sysvine.com/careers/current-opportunities) |
 
 
 
