@@ -1,6 +1,6 @@
 ## List of Companies in Chennai 🚀
 
-#🔍 Find Your Dream Job: A Complete Directory of Companies in Chennai
+# 🔍 Find Your Dream Job: A Complete Directory of Companies in Chennai
 
 > If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies—from small startups to global MNCs.
 
