@@ -137,6 +137,8 @@
 |  123 | NKT A S | Electronics Manufacturing | [ NKT A S Career Page](https://www.nkt.com/career) | [ NKT A S Linkedin](https://www.linkedin.com/company/nkt-cables/) | [ Other Openings ](https://www.nkt.com/career/job-search) |
 |  124 | QualityKiosk Technologies | IT | [ QualityKiosk Career Page](https://qualitykiosk.com/careers/) | [ QualityKiosk Linkedin](https://www.linkedin.com/company/quality-kiosk-technologies/) | [ Other Openings ](https://careers-qualitykiosk.peoplestrong.com/job/joblist) |
 |  125 | Sysvine Technologies | IT | [ Sysvine Technologies Career Page](https://sysvine.com/careers) | [ Sysvine Technologies Linkedin](https://www.linkedin.com/company/sysvine-technologies/) | [ Other Openings ](https://sysvine.com/careers/current-opportunities) |
+|  126 | Sciera | IT | [ Sciera Career Page](https://sciera.freshteam.com/jobs) | [ Sciera Linkedin](https://www.linkedin.com/company/sciera-inc/) | [ Other Openings ](https://sciera.freshteam.com/jobs) |
+|  127 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
 
 
 
