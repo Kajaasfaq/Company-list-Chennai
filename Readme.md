@@ -146,6 +146,7 @@
 |  127 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
 |  128 |  Mr.Cooper Group | Financial Services | [ Mr.Cooper Group Career Page](https://careers.mrcooper.com/us/en) | [ Mr.Cooper Group Linkedin](https://www.linkedin.com/company/mrcooper/) | [ Other Openings ](https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper) |
 |  129 |  Nasdaq | Financial Services | [ Nasdaq Career Page](https://www.nasdaq.com/about/careers) | [  Nasdaq Linkedin](https://www.linkedin.com/company/nasdaq/) | [ Other Openings ](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
+|  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [  Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
 
 
 
