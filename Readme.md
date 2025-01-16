@@ -144,7 +144,9 @@
 |  125 | Sysvine Technologies | IT | [ Sysvine Technologies Career Page](https://sysvine.com/careers) | [ Sysvine Technologies Linkedin](https://www.linkedin.com/company/sysvine-technologies/) | [ Other Openings ](https://sysvine.com/careers/current-opportunities) |
 |  126 | Sciera | IT | [ Sciera Career Page](https://sciera.freshteam.com/jobs) | [ Sciera Linkedin](https://www.linkedin.com/company/sciera-inc/) | [ Other Openings ](https://sciera.freshteam.com/jobs) |
 |  127 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
-|  129 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
+|  128 |  Mr.Cooper Group | Financial Services | [ Mr.Cooper Group Career Page](https://careers.mrcooper.com/us/en) | [ Mr.Cooper Group Linkedin](https://www.linkedin.com/company/mrcooper/) | [ Other Openings ](https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper) |
+|  129 |  Nasdaq | Financial Services | [ Nasdaq Career Page](https://www.nasdaq.com/about/careers) | [  Nasdaq Linkedin](https://www.linkedin.com/company/nasdaq/) | [ Other Openings ](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
+
 
 
 ## 👋 Final Note
