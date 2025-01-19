@@ -1,20 +1,22 @@
 ## List of Companies in Chennai 🚀
 
-# 🔍 Find Your Dream Job: A Complete Directory of Companies in Chennai
+# Find Your Dream Job: A Complete Directory of Companies in Chennai 🔍
 
-> If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies—from small startups to global MNCs.
-
-## -- All the Companies from Small Startups to Big MNC Companies --
+> + If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies—from small startups to global MNCs.
 > + If you are reading this, I would like to invite you to contribute to this repository for the latest updates. Please make a pull request to this repository.
 
 ## Join and Contribute
 
 # Your input can help make this resource even better!
+
 > + 💡 Add New Companies: Share details of companies based in Chennai that aren't listed yet.
 > + 🔄 Update Information: Keep existing entries up to date by adding career pages, LinkedIn profiles, or other relevant details.
 
-## List of Companies in Chennai
 
+## Read below to learn how to create a Pull Request (PR)
+
+
+## List of Companies in Chennai ->>
 
 | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
 | ---- | ------------    |	 --------     |	     ------------    |	    -------     |     -----    |
@@ -146,9 +148,59 @@
 |  126 | Sciera | IT | [ Sciera Career Page](https://sciera.freshteam.com/jobs) | [ Sciera Linkedin](https://www.linkedin.com/company/sciera-inc/) | [ Other Openings ](https://sciera.freshteam.com/jobs) |
 |  127 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
 |  128 |  Mr.Cooper Group | Financial Services | [ Mr.Cooper Group Career Page](https://careers.mrcooper.com/us/en) | [ Mr.Cooper Group Linkedin](https://www.linkedin.com/company/mrcooper/) | [ Other Openings ](https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper) |
-|  129 |  Nasdaq | Financial Services | [ Nasdaq Career Page](https://www.nasdaq.com/about/careers) | [  Nasdaq Linkedin](https://www.linkedin.com/company/nasdaq/) | [ Other Openings ](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
-|  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [  Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
+|  129 |  Nasdaq | Financial Services | [ Nasdaq Career Page](https://www.nasdaq.com/about/careers) | [ Nasdaq Linkedin](https://www.linkedin.com/company/nasdaq/) | [ Other Openings ](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
+|  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [ Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
+|  131 |  Bounteous | IT | [ Bounteous Career Page](https://www.bounteous.com/careers) | [ Bounteous Linkedin](https://www.linkedin.com/company/bounteous/) | [ Other Openings ](https://www.bounteous.com/careers/search-results/?location=Chennai) |
+|  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
 
+
+
+
+## How to Make Your First Contribution 💻
+
+- + Follow these steps to create your first Pull Request (PR):
+
+1. **Fork the Repository**  
+   - Click the "Fork" button at the top-right corner of this repository to create your own copy.
+
+2. **Clone the Repository**  
+   - Copy the URL of your forked repository and run this command in your terminal:  
+   ```bash
+   git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
+
+3. **Create a New Branch**
+   - Navigate to the project directory and create a new branch for your changes:
+   ```bash
+   git checkout -b add-company-details
+
+4. **Make Your Changes**
+   - Add or update company details in the appropriate file. For example, if you're adding a new company, include  this Format:
+    - + Company Name
+    - + Website
+    - + Career Page
+    - + LinkedIn Profile (if available)
+
+    ```bash
+   | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
+
+5. **Commit Your Changes**
+   - Save your changes and commit them:
+   ```bash
+   git add .
+   git commit -m "Added/Updated company details"
+
+6. **Push Your Changes**
+   - Push the changes to your forked repository:
+   ```bash
+   git push origin add-company-details
+
+7. **Create a Pull Request**
+   - Go to the original repository on GitHub and click on "Pull Requests."
+   - Click the "New Pull Request" button and compare your branch with the original repository's branch.
+   - Add a title and description for your PR, then click "Create Pull Request."
+
+## Need Help?
+ - If you're stuck at any step, feel free to reach out. Every contribution matters, and we appreciate your efforts! 💪
 
 
 ## 👋 Final Note
@@ -159,8 +211,8 @@ Stay connected for more updates and feel free to contribute or provide feedback.
 
 All the best for your journey 🎊
 
------
- 
+----- 
+
 ## Lets Get Connect 
 
 Made with ❤️ by [ Asfaq ](https://www.linkedin.com/in/abdul-muthalif-asfaq/)-[ GitHub ](https://github.com/Kajaasfaq)
