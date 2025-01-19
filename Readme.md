@@ -14,8 +14,6 @@
 <a href="https://github.com/Kajaasfaq/Company-list-Chennai/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kajaasfaq/Company-list-Chennai?color=2b9348"></a></p>
 </div>
  
-<br>
-
 # Your input can help make this resource even better!
 
 > + 💡 Add New Companies: Share details of companies based in Chennai that aren't listed yet.
