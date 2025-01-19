@@ -7,6 +7,15 @@
 
 ## Join and Contribute
 
+<div aligh="center">
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kajaasfaq.Company-list-Chennai" alt="visitor count"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/stargazers"><img src="https://img.shields.io/github/stars/Kajaasfaq/Company-list-Chennai" alt="Stars Badge"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/network/members"><img src="https://img.shields.io/github/forks/Kajaasfaq/Company-list-Chennai" alt="Forks Badge"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kajaasfaq/Company-list-Chennai?color=2b9348"></a></p>
+</div>
+ 
+<br>
+
 # Your input can help make this resource even better!
 
 > + 💡 Add New Companies: Share details of companies based in Chennai that aren't listed yet.
