@@ -2,7 +2,7 @@
 
 # Find Your Dream Job: A Complete Directory of Companies in Chennai 🔍
 
-> + If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies—from small startups to global MNCs.
+> + If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies — from small startups to global MNCs.
 > + If you are reading this, I would like to invite you to contribute to this repository for the latest updates. Please make a pull request to this repository.
 
 ## Join and Contribute
@@ -156,9 +156,10 @@
 
 
 
+
 ## How to Make Your First Contribution 💻
 
-- + Follow these steps to create your first Pull Request (PR):
+- Follow these steps to create your first Pull Request (PR):
 
 1. **Fork the Repository**  
    - Click the "Fork" button at the top-right corner of this repository to create your own copy.
@@ -175,10 +176,11 @@
 
 4. **Make Your Changes**
    - Add or update company details in the appropriate file. For example, if you're adding a new company, include  this Format:
-    - + Company Name
-    - + Website
-    - + Career Page
-    - + LinkedIn Profile (if available)
+     + Company Name
+     + Industry
+     + Career Page
+     + LinkedIn Profile (if available)
+     + Email (if available) / Internship Page
 
     ```bash
    | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
