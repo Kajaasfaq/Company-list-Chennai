@@ -159,6 +159,8 @@
 |  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [ Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
 |  131 |  Bounteous | IT | [ Bounteous Career Page](https://www.bounteous.com/careers) | [ Bounteous Linkedin](https://www.linkedin.com/company/bounteous/) | [ Other Openings ](https://www.bounteous.com/careers/search-results/?location=Chennai) |
 |  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
+|  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
+|  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
 
 
 
