@@ -159,8 +159,9 @@
 |  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [ Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
 |  131 |  Bounteous | IT | [ Bounteous Career Page](https://www.bounteous.com/careers) | [ Bounteous Linkedin](https://www.linkedin.com/company/bounteous/) | [ Other Openings ](https://www.bounteous.com/careers/search-results/?location=Chennai) |
 |  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
-|  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
-|  132 |  Tiger Analytics | IT | [ Tiger Analytics Career Page](https://www.tigeranalytics.com/about-us/current-openings/) | [ Tiger Analytics Linkedin](https://www.linkedin.com/company/tiger-analytics/) | [ Other Openings ](https://www.tigeranalytics.com/about-us/current-openings/) |
+|  133 |  Genesys | IT | [ Genesys Career Page](https://www.genesys.com/company/careers) | [ Genesys Linkedin](https://www.linkedin.com/company/genesys/) | [ Other Openings ](https://genesys.wd1.myworkdayjobs.com/en-US/Genesys) |
+|  134 |  Wolters Kluwer | IT | [ Wolters Kluwer Career Page](https://careers.wolterskluwer.com/) | [ Wolters Kluwer Linkedin](https://www.linkedin.com/company/wolters-kluwer/) | [ Other Openings ](https://wk.wd3.myworkdayjobs.com/en-US/External) |
+|  135 |  Expeditors | Transportation | [ Expeditors Career Page](https://www.expeditors.com/careers) | [ Expeditors Linkedin](https://www.linkedin.com/company/expeditors) | [ Other Openings ](https://www.expeditors.com/careers/jobs) |
 
 
 
@@ -223,7 +224,6 @@ Stay connected for more updates and feel free to contribute or provide feedback.
 All the best for your journey 🎊
 
 ----- 
-
 
 ## Lets Get Connect 
 
