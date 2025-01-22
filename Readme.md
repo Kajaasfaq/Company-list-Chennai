@@ -23,7 +23,7 @@
 ## Read below to learn how to create a Pull Request (PR)
 
 
-## List of Companies in Chennai : slide ->>>
+## List of Companies in Chennai:slide->>
 
 | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
 | ---- | ------------    |	 --------     |	     ------------    |	    -------     |     -----    |
