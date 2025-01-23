@@ -154,7 +154,7 @@
 |  125 | Sysvine Technologies | IT | [ Sysvine Technologies Career Page](https://sysvine.com/careers) | [ Sysvine Technologies Linkedin](https://www.linkedin.com/company/sysvine-technologies/) | [ Other Openings ](https://sysvine.com/careers/current-opportunities) |
 |  126 | Sciera | IT | [ Sciera Career Page](https://sciera.freshteam.com/jobs) | [ Sciera Linkedin](https://www.linkedin.com/company/sciera-inc/) | [ Other Openings ](https://sciera.freshteam.com/jobs) |
 |  127 | LemonPeak | IT | [ LemonPeak Career Page](https://www.lemonpeak.com/careers.php) | [ LemonPeak Linkedin](https://www.linkedin.com/company/lemonpeak-official-page/) | [ Other Openings ](https://www.lemonpeak.com/jobs.php) |
-|  128 |  Mr.Cooper Group | Financial Services | [ Mr.Cooper Group Career Page](https://careers.mrcooper.com/us/en) | [ Mr.Cooper Group Linkedin](https://www.linkedin.com/company/mrcooper/) | [ Other Openings ](https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper) |
+|  128 |  Mr Cooper Group | Financial Services | [ Mr.Cooper Group Career Page](https://careers.mrcooper.com/us/en) | [ Mr.Cooper Group Linkedin](https://www.linkedin.com/company/mrcooper/) | [ Other Openings ](https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper) |
 |  129 |  Nasdaq | Financial Services | [ Nasdaq Career Page](https://www.nasdaq.com/about/careers) | [ Nasdaq Linkedin](https://www.linkedin.com/company/nasdaq/) | [ Other Openings ](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
 |  130 |  Qualitest Group | IT | [ Qualitest Group Career Page](https://www.qualitestgroup.com/careers/) | [ Qualitest Group Linkedin](https://www.linkedin.com/company/qualitest/) | [ Other Openings ](https://careers.qualitestgroup.com/) |
 |  131 |  Bounteous | IT | [ Bounteous Career Page](https://www.bounteous.com/careers) | [ Bounteous Linkedin](https://www.linkedin.com/company/bounteous/) | [ Other Openings ](https://www.bounteous.com/careers/search-results/?location=Chennai) |
@@ -162,6 +162,8 @@
 |  133 |  Genesys | IT | [ Genesys Career Page](https://www.genesys.com/company/careers) | [ Genesys Linkedin](https://www.linkedin.com/company/genesys/) | [ Other Openings ](https://genesys.wd1.myworkdayjobs.com/en-US/Genesys) |
 |  134 |  Wolters Kluwer | IT | [ Wolters Kluwer Career Page](https://careers.wolterskluwer.com/) | [ Wolters Kluwer Linkedin](https://www.linkedin.com/company/wolters-kluwer/) | [ Other Openings ](https://wk.wd3.myworkdayjobs.com/en-US/External) |
 |  135 |  Expeditors | Transportation | [ Expeditors Career Page](https://www.expeditors.com/careers) | [ Expeditors Linkedin](https://www.linkedin.com/company/expeditors) | [ Other Openings ](https://www.expeditors.com/careers/jobs) |
+|  135 |  Hubino | IT | [ Hubino Career Page](https://www.hubino.com/career/) | [ Hubino Linkedin](https://www.linkedin.com/company/hubino-technologies-private-limited/) | [ Other Openings ](https://www.hubino.com/career/) |
+|  135 |  KLA Corporation | Semiconductor Manufacturing | [ KLA Corporation Career Page](https://www.kla.com/careers) | [ KLA Corporation Linkedin](https://www.linkedin.com/company/klacorp/) | [ Other Openings ](https://kla.wd1.myworkdayjobs.com/Search) |
 
 
 
