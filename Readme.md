@@ -164,6 +164,9 @@
 |  135 |  Expeditors | Transportation | [ Expeditors Career Page](https://www.expeditors.com/careers) | [ Expeditors Linkedin](https://www.linkedin.com/company/expeditors) | [ Other Openings ](https://www.expeditors.com/careers/jobs) |
 |  136 |  Hubino | IT | [ Hubino Career Page](https://www.hubino.com/career/) | [ Hubino Linkedin](https://www.linkedin.com/company/hubino-technologies-private-limited/) | [ Other Openings ](https://www.hubino.com/career/) |
 |  137 |  KLA Corporation | Semiconductor Manufacturing | [ KLA Corporation Career Page](https://www.kla.com/careers) | [ KLA Corporation Linkedin](https://www.linkedin.com/company/klacorp/) | [ Other Openings ](https://kla.wd1.myworkdayjobs.com/Search) |
+|  138 |  Newell Brands | Manufacturing | [ Newell Brands Career Page](https://jobs.newellbrands.com/viewalljobs/) | [ Newell Brands Linkedin](https://www.linkedin.com/company/newellbrands/) | [ Other Openings ](https://jobs.newellbrands.com/search/?createNewAlert=false&q=Chennai) |
+|  139 |  LexisNexis | Data Infrastructure and Analytics | [ LexisNexis Career Page](https://www.lexisnexis.com/global/careers.page) | [ LexisNexis Linkedin](https://www.linkedin.com/company/lexisnexis-risk-solutions/) | [ Other Openings ](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions) |
+|  140 |  ZoomInfo Technologies LLC | IT | [ ZoomInfo Technologies LLC Career Page](https://www.zoominfo.com/careers) | [ ZoomInfo Technologies LLC Linkedin](https://www.linkedin.com/company/zoominfo/) | [ Other Openings ](https://www.zoominfo.com/careers#jobs) |
 
 
 
