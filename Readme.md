@@ -171,7 +171,6 @@
 
 
 
-
 ## How to Make Your First Contribution 💻
 
 - Follow these steps to create your first Pull Request (PR):
