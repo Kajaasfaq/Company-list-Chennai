@@ -167,6 +167,8 @@
 |  138 |  Newell Brands | Manufacturing | [ Newell Brands Career Page](https://jobs.newellbrands.com/viewalljobs/) | [ Newell Brands Linkedin](https://www.linkedin.com/company/newellbrands/) | [ Other Openings ](https://jobs.newellbrands.com/search/?createNewAlert=false&q=Chennai) |
 |  139 |  LexisNexis | Data Infrastructure and Analytics | [ LexisNexis Career Page](https://www.lexisnexis.com/global/careers.page) | [ LexisNexis Linkedin](https://www.linkedin.com/company/lexisnexis-risk-solutions/) | [ Other Openings ](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions) |
 |  140 |  ZoomInfo Technologies LLC | IT | [ ZoomInfo Technologies LLC Career Page](https://www.zoominfo.com/careers) | [ ZoomInfo Technologies LLC Linkedin](https://www.linkedin.com/company/zoominfo/) | [ Other Openings ](https://www.zoominfo.com/careers#jobs) |
+|  141 |  WPP | IT | [ WPP Career Page](https://www.wpp.com/en/careers) | [ WPPC Linkedin](https://www.linkedin.com/company/wpp/) | [ Other Openings ](https://job-boards.greenhouse.io/wpp) |
+|  142 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
 
 
 
