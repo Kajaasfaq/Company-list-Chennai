@@ -171,7 +171,6 @@
 |  142 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
 |  143 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
 |  144 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
-|  145 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
 
 
 
