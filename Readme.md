@@ -170,7 +170,8 @@
 |  141 |  WPP | IT | [ WPP Career Page](https://www.wpp.com/en/careers) | [ WPPC Linkedin](https://www.linkedin.com/company/wpp/) | [ Other Openings ](https://job-boards.greenhouse.io/wpp) |
 |  142 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
 |  143 |  American Express | Financial Services | [ American Express Career Page](https://www.americanexpress.com/en-us/careers/) | [ American Express Linkedin](https://www.linkedin.com/company/american-express) | [ Other Openings ](https://aexp.eightfold.ai/careers?intlink=us-amex-career-en-us-home-findalljobs) |
-|  144 |  Bungee | IT | [ Bungee Career Page](https://bungeetech-talent.freshteam.com/jobs) | [ Bungee Linkedin](https://www.linkedin.com/company/bungeetech/) | [ Other Openings ](https://bungeetech-talent.freshteam.com/jobs) |
+|  144 |  Walmart | Retail | [ Walmart Career Page](https://careers.walmart.com/) | [ Walmart Linkedin](https://www.linkedin.com/company/walmart/) | [ Other Openings ](https://tech.walmart.com/content/walmart-global-tech/en_us.html) |
+|  145 |  Adidas | Sporting Goods | [ Adidas Career Page](https://careers.adidas-group.com/) | [ Adidas Linkedin](https://www.linkedin.com/company/adidas/) | [ Other Openings ](https://careers.adidas-group.com/jobs?location=%5B%7B%22country%22%3A%22India%22%2C%22city%22%3A%22Chennai%22%7D%5D&offset=0&keywords=&location_manual=Chennai%2C+India) |
 
 
 
