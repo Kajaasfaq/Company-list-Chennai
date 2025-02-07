@@ -174,7 +174,6 @@
 |  145 |  Adidas | Sporting Goods | [ Adidas Career Page](https://careers.adidas-group.com/) | [ Adidas Linkedin](https://www.linkedin.com/company/adidas/) | [ Other Openings ](https://careers.adidas-group.com/jobs?location=%5B%7B%22country%22%3A%22India%22%2C%22city%22%3A%22Chennai%22%7D%5D&offset=0&keywords=&location_manual=Chennai%2C+India) |
 |  146 |  Qubecinema | Movies, Videos, and Sound | [ Qubecinema Career Page](https://www.qubecinema.com/careers/) | [ Qubecinema Linkedin](https://www.linkedin.com/company/qubecinema/) | [ Other Openings ](https://qubecinema.applytojob.com/apply/) |
 |  147 |  Hitachi | IT Services and IT Consulting | [ Hitachi Career Page](https://careers.hitachi.com/) | [ Hitachi Linkedin](https://www.linkedin.com/company/hitachi/) | [ Other Openings ](https://careers.hitachi.com/search/jobs?q=&location=Chennai) |
-|  148 |  Hitachi | IT Services and IT Consulting | [ Hitachi Career Page](https://careers.hitachi.com/) | [ Hitachi Linkedin](https://www.linkedin.com/company/hitachi/) | [ Other Openings ](https://careers.hitachi.com/search/jobs?q=&location=Chennai) |
 
 
 
