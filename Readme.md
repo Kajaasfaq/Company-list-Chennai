@@ -180,6 +180,8 @@
 |  151 |  Zensar Technologies Ltd | IT Services | [ Zensar Technologies Ltd Career Page](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1) | [ Zensar Technologies Ltd Linkedin](https://www.linkedin.com/company/zensar-technologies) | [ Other Openings ](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/tc-join) |
 |  152 |  Optum | Hospitals and Health Care | [ Optum Career Page](https://careers.unitedhealthgroup.com/job-search-results/) | [ Optum Linkedin](https://www.linkedin.com/company/optum/) | [ Other Openings ](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Recent%20Graduates&level[]=Student%20Internships) |
 |  153 |  Prove Identity Inc | Saas | [ Prove Identity Inc Career Page](https://www.prove.com/careers) | [ Prove Identity Inc Linkedin](https://www.linkedin.com/company/proveidentity/) | [ Other Openings ](https://boards.greenhouse.io/prove/) |
+|  154 |  NCR Voyix | Software Development | [ NCR Voyix Career Page](https://www.ncrvoyix.com/company/careers) | [ NCR Voyix Linkedin](https://www.linkedin.com/company/ncrvoyix/) | [ Other Openings ](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac) |
+|  155 |  Prove Identity Inc | Saas | [ Prove Identity Inc Career Page](https://www.prove.com/careers) | [ Prove Identity Inc Linkedin](https://www.linkedin.com/company/proveidentity/) | [ Other Openings ](https://boards.greenhouse.io/prove/) |
 
 
 
