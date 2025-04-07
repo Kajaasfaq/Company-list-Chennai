@@ -2,6 +2,8 @@
 
 # Find Your Dream Job: A Complete Directory of Companies in Chennai 🔍
 
+![image](https://github.com/user-attachments/assets/9c77e0eb-7b80-4a23-9600-58637bf3b613)
+
 > + If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies — from small startups to global MNCs.
 > + If you are reading this, I would like to invite you to contribute to this repository for the latest updates. Please make a pull request to this repository.
 
