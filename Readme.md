@@ -2,6 +2,8 @@
 
 # Find Your Dream Job: A Complete Directory of Companies in Chennai 🔍
 
+![image](https://github.com/user-attachments/assets/9c77e0eb-7b80-4a23-9600-58637bf3b613)
+
 > + If you're searching for jobs in Chennai, this repository is your one-stop destination for exploring opportunities across all types of companies — from small startups to global MNCs.
 > + If you are reading this, I would like to invite you to contribute to this repository for the latest updates. Please make a pull request to this repository.
 
@@ -181,9 +183,7 @@
 |  152 |  Optum | Hospitals and Health Care | [ Optum Career Page](https://careers.unitedhealthgroup.com/job-search-results/) | [ Optum Linkedin](https://www.linkedin.com/company/optum/) | [ Other Openings ](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Recent%20Graduates&level[]=Student%20Internships) |
 |  153 |  Prove Identity Inc | Saas | [ Prove Identity Inc Career Page](https://www.prove.com/careers) | [ Prove Identity Inc Linkedin](https://www.linkedin.com/company/proveidentity/) | [ Other Openings ](https://boards.greenhouse.io/prove/) |
 |  154 |  NCR Voyix | Software Development | [ NCR Voyix Career Page](https://www.ncrvoyix.com/company/careers) | [ NCR Voyix Linkedin](https://www.linkedin.com/company/ncrvoyix/) | [ Other Openings ](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac) |
-|  155 |  Elsevier  | IT Services | [ Elsevier Career Page](https://www.elsevier.com/about/careers) | [ Elsevier Linkedin](https://www.linkedin.com/company/elsevier/) | [ Other Openings ](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs) |
-|  156 |  McKinsey & Company | Business Consulting and Services | [ McKinsey & Company Career Page](https://www.mckinsey.com/careers/search-jobs) | [ McKinsey & Company Linkedin](https://www.linkedin.com/company/mckinsey) | [ Other Openings ](https://www.mckinsey.com/careers/tech) |
-|  157 | BOT VFX | Animation and Post-production | [ BOT VFX Career Page](https://botvfx.com/jobs/) | [ BOT VFX Linkedin](https://www.linkedin.com/company/bot-vfx/) | [ Other Openings ](https://botvfx.jobsoid.com/) |
+|  155 |  Prove Identity Inc | Saas | [ Prove Identity Inc Career Page](https://www.prove.com/careers) | [ Prove Identity Inc Linkedin](https://www.linkedin.com/company/proveidentity/) | [ Other Openings ](https://boards.greenhouse.io/prove/) |
 
 
 
