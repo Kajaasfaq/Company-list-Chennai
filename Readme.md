@@ -184,7 +184,7 @@
 |  155 |  Elsevier  | IT Services | [ Elsevier Career Page](https://www.elsevier.com/about/careers) | [ Elsevier Linkedin](https://www.linkedin.com/company/elsevier/) | [ Other Openings ](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs) |
 |  156 |  McKinsey & Company | Business Consulting and Services | [ McKinsey & Company Career Page](https://www.mckinsey.com/careers/search-jobs) | [ McKinsey & Company Linkedin](https://www.linkedin.com/company/mckinsey) | [ Other Openings ](https://www.mckinsey.com/careers/tech) |
 |  157 | BOT VFX | Animation and Post-production | [ BOT VFX Career Page](https://botvfx.com/jobs/) | [ BOT VFX Linkedin](https://www.linkedin.com/company/bot-vfx/) | [ Other Openings ](https://botvfx.jobsoid.com/) |
-|  158 | BOT VFX | Animation and Post-production | [ BOT VFX Career Page](https://botvfx.com/jobs/) | [ BOT VFX Linkedin](https://www.linkedin.com/company/bot-vfx/) | [ Other Openings ](https://botvfx.jobsoid.com/) |
+
 
 
 
