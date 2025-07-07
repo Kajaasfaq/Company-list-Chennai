@@ -190,8 +190,8 @@
 |  161 | Ingram Micro | IT Services | [ Ingram Micro Career Page](https://careers.ingrammicro.com/en/) | [ Ingram Micro Linkedin](https://www.linkedin.com/company/ingram-micro/) | [ Other Openings ](https://careers.ingrammicro.com/en/locations/apac/india/) |
 |  162 | Synergech | IT Services | [ Synergech Career Page](https://www.synergech.com/careers) | [ Synergech Linkedin](https://www.linkedin.com/company/synergech/) | [ Other Openings ](https://www.linkedin.com/company/synergech/jobs/) |
 |  163 | PRESIDIO | IT Services | [ PRESIDIO Career Page](https://www.presidio.com/careers/) | [ PRESIDIO Linkedin](https://www.linkedin.com/company/presidio-/) | [ Other Openings ](https://recruiting.ultipro.com/PRE1019PRSD/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) |
-|  164 | BNP Paribas | Banking | [ BNP Paribas Career Page](https://group.bnpparibas/en/careers) | [ BNP Paribas Linkedin](https://www.linkedin.com/company/bnp-paribas) | [ Other Openings ](https://recruiting.ultipro.com/PRE1019PRSD/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) |
-|  165 | PRESIDIO | IT Services | [ PRESIDIO Career Page](https://www.presidio.com/careers/) | [ PRESIDIO Linkedin](https://www.linkedin.com/company/presidio-/) | [ Other Openings ](https://recruiting.ultipro.com/PRE1019PRSD/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) |
+|  164 | BNP Paribas | Banking | [ BNP Paribas Career Page](https://group.bnpparibas/en/careers) | [ BNP Paribas Linkedin](https://www.linkedin.com/company/bnp-paribas) | [ Other Openings ](https://group.bnpparibas/en/careers/candidate-student) |
+|  165 | Paytm | Financial Services | [ Paytm Career Page](https://paytm.com/careers/) | [ Paytm Linkedin](https://www.linkedin.com/company/paytm/) | [ Other Openings ](https://jobs.lever.co/paytm) |
 
 
 
