@@ -192,6 +192,8 @@
 |  163 | PRESIDIO | IT Services | [ PRESIDIO Career Page](https://www.presidio.com/careers/) | [ PRESIDIO Linkedin](https://www.linkedin.com/company/presidio-/) | [ Other Openings ](https://recruiting.ultipro.com/PRE1019PRSD/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) |
 |  164 | BNP Paribas | Banking | [ BNP Paribas Career Page](https://group.bnpparibas/en/careers) | [ BNP Paribas Linkedin](https://www.linkedin.com/company/bnp-paribas) | [ Other Openings ](https://group.bnpparibas/en/careers/candidate-student) |
 |  165 | Paytm | Financial Services | [ Paytm Career Page](https://paytm.com/careers/) | [ Paytm Linkedin](https://www.linkedin.com/company/paytm/) | [ Other Openings ](https://jobs.lever.co/paytm) |
+|  166 | R1 | Health Care | [ R1 Career Page](https://www.r1rcm.com/careers/) | [ R1 Linkedin](https://www.linkedin.com/company/r1-rcm/) | [ Other Openings ](https://r1rcm.wd1.myworkdayjobs.com/R1RCM?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e) |
+|  167 | Nextiva | Software Development | [ Nextiva Career Page](https://www.nextiva.com/company/careers) | [ Nextiva Linkedin](https://www.linkedin.com/company/nextiva/) | [ Other Openings ](https://www.nextiva.com/company/careers?loc=ChennaiTamilNaduHybrid#careerApplyposition) |
 
 
 
