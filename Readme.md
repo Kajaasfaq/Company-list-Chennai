@@ -194,6 +194,9 @@
 |  165 | Paytm | Financial Services | [ Paytm Career Page](https://paytm.com/careers/) | [ Paytm Linkedin](https://www.linkedin.com/company/paytm/) | [ Other Openings ](https://jobs.lever.co/paytm) |
 |  166 | R1 | Health Care | [ R1 Career Page](https://www.r1rcm.com/careers/) | [ R1 Linkedin](https://www.linkedin.com/company/r1-rcm/) | [ Other Openings ](https://r1rcm.wd1.myworkdayjobs.com/R1RCM?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e) |
 |  167 | Nextiva | Software Development | [ Nextiva Career Page](https://www.nextiva.com/company/careers) | [ Nextiva Linkedin](https://www.linkedin.com/company/nextiva/) | [ Other Openings ](https://www.nextiva.com/company/careers?loc=ChennaiTamilNaduHybrid#careerApplyposition) |
+|  168 | Appian | Software Development | [ Appian Career Page](https://careers.appian.com/) | [ Appian Linkedin](https://www.linkedin.com/company/appian) | [ Other Openings ](https://job-boards.greenhouse.io/appian?gh_src=ba4a216d1us&offices%5B%5D=89628) |
+|  169 | Concentrix | IT Services | [ Concentrix Career Page](https://jobs.concentrix.com/) | [ Concentrix Linkedin](https://www.linkedin.com/company/concentrix/) | [ Other Openings ](https://jobs.concentrix.com/job-search/) |
+|  170 | Nasscom | IT Services | [ Nasscom Career Page](https://www.nasscom.in/careers) | [ Nasscom Linkedin](https://www.linkedin.com/company/nasscom-india/) | [ Other Openings ](https://www.linkedin.com/company/nasscom-india/jobs/) |
 
 
 
