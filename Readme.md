@@ -1,7 +1,7 @@
 ## List of Companies in Chennai 🚀
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lZVopAg79qBAZcJXof1sjS-96EfqHTsw" alt="Chennai Job Banner" width="80%">
+ <img src="https://drive.google.com/uc?export=view&id=1lZVopAg79qBAZcJXof1sjS-96EfqHTsw" alt="Chennai Job Banner" width="50%" height="50%">
 </p>
 
 ## Chennai Companies Directory - Find Your Dream Job in Chennai 🔍
