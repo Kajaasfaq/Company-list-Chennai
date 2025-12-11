@@ -1,9 +1,7 @@
 ## List of Companies in Chennai 🚀
 
 <p align="center">
-  <a href="">
-    <img src="https://res.cloudinary.com/db0aqesca/image/upload/v1765491025/Gemini_Generated_Image_986jhe986jhe986j_xmmhx7.png" alt="Chennai">
-  </a>
+  <img src="https://res.cloudinary.com/db0aqesca/image/upload/w_950,f_auto,q_auto/v1765491025/Gemini_Generated_Image_986jhe986jhe986j_xmmhx7.png" alt="Chennai" />
 </p>
 
 
@@ -11,6 +9,13 @@
 This repository is a community-driven directory of companies in Chennai -- from early-stage startups to global MNCs.  
 If you're searching for opportunities, this repo helps you explore companies, career pages, and open roles.
 
+## Join and Contribute
+<div aligh="center">
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kajaasfaq.Company-list-Chennai" alt="visitor count"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/stargazers"><img src="https://img.shields.io/github/stars/Kajaasfaq/Company-list-Chennai" alt="Stars Badge"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/network/members"><img src="https://img.shields.io/github/forks/Kajaasfaq/Company-list-Chennai" alt="Forks Badge"/></a>
+<a href="https://github.com/Kajaasfaq/Company-list-Chennai/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kajaasfaq/Company-list-Chennai?color=2b9348"></a></p>
+</div>
 ---
 
 ## Use GitHub search bar above 🔍
@@ -26,6 +31,14 @@ If something is missing, **please open a Pull Request (PR)** and contribute!
 - ✔️ Updated career pages & hiring links  
 - ✔️ Easy way to explore opportunities  
 - ✔️ Beginner-friendly contribution guide  
+
+---
+
+<p align="center" position="flex" >
+  <img src="https://res.cloudinary.com/db0aqesca/image/upload/w_300,h_250,f_auto,q_auto/v1765491037/Gemini_Generated_Image_986jhe986jhe986j_3_r1j430.png" alt="Chennai" />
+  <img src="https://res.cloudinary.com/db0aqesca/image/upload/w_300,h_250,f_auto,q_auto/v1765491024/Gemini_Generated_Image_986jhe986jhe986j_2_otdgbh.png" alt="Chennai" />
+  <img src="https://res.cloudinary.com/db0aqesca/image/upload/w_300,h_250,f_auto,q_auto/v1765491024/Gemini_Generated_Image_986jhe986jhe986j_1_fdh4ae.png" alt="Chennai" />
+</p>
 
 ---
 
@@ -45,17 +58,6 @@ The detailed PR process is given below.
 ### ⭐ 4. Please give a star!  
 If this project helps you, consider giving it a ⭐ on GitHub.  
 It encourages contributors and keeps the repo active.
-
----
-
-## Join and Contribute
-
-<div aligh="center">
-<a href="https://github.com/Kajaasfaq/Company-list-Chennai"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kajaasfaq.Company-list-Chennai" alt="visitor count"/></a>
-<a href="https://github.com/Kajaasfaq/Company-list-Chennai/stargazers"><img src="https://img.shields.io/github/stars/Kajaasfaq/Company-list-Chennai" alt="Stars Badge"/></a>
-<a href="https://github.com/Kajaasfaq/Company-list-Chennai/network/members"><img src="https://img.shields.io/github/forks/Kajaasfaq/Company-list-Chennai" alt="Forks Badge"/></a>
-<a href="https://github.com/Kajaasfaq/Company-list-Chennai/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kajaasfaq/Company-list-Chennai?color=2b9348"></a></p>
-</div>
 
 ---
  
