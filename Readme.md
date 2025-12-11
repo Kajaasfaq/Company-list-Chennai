@@ -6,7 +6,7 @@ If you're searching for opportunities, this repo helps you explore companies, ca
 
 ---
 
-## Use GitHub search bar
+## Use GitHub search bar above 🔍
 
 ✨ **Use the GitHub search bar above to find your dream company**.  
 If something is missing, **please open a Pull Request (PR)** and contribute!
