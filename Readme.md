@@ -251,6 +251,7 @@ It encourages contributors and keeps the repo active.
    
     ```bash
        git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
+    ```
 ---
 
 ### 3. **Create a New Branch**
@@ -258,6 +259,7 @@ It encourages contributors and keeps the repo active.
      
     ```bash
     git checkout -b add-company-details
+    ```
 ---
 ### 4. **Make Your Changes**
    - Add or update company details in the appropriate file. For example, if you're adding a new company, include  this Format:
@@ -269,6 +271,7 @@ It encourages contributors and keeps the repo active.
 
     ```bash
     | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
+    ```
 ---
 ### 5. **Commit Your Changes**
    - Save your changes and commit them:
@@ -276,12 +279,14 @@ It encourages contributors and keeps the repo active.
     ```bash
     git add .
     git commit -m "Added/Updated company details"
+    ```
 ---
 ### 6. **Push Your Changes**
    - Push the changes to your forked repository:
 
     ```bash
     git push origin add-company-details
+    ```
 ---
 ### 7. **Create a Pull Request**
    - Go to the original repository on GitHub and click on "Pull Requests."
