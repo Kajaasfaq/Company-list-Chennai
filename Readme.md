@@ -238,18 +238,19 @@ It encourages contributors and keeps the repo active.
 
 
 
-## How to Make Your First Contribution 💻
+## How to Make Your First Contribution 💻 **(Beginner Friendly)**
 
 - Follow these steps to create your first Pull Request (PR):
 
-1. **Fork the Repository**  
+---
+### 1. **Fork the Repository**  
    - Click the "Fork" button at the top-right corner of this repository to create your own copy.
-
+---
 2. **Clone the Repository**  
    - Copy the URL of your forked repository and run this command in your terminal:  
    ```bash
    git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
-
+---
 3. **Create a New Branch**
    - Navigate to the project directory and create a new branch for your changes:
    ```bash
