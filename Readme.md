@@ -250,7 +250,7 @@ It encourages contributors and keeps the repo active.
    - Copy the URL of your forked repository and run this command in your terminal:
    
     ```bash
-    git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
+       git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
 ---
 
 ### 3. **Create a New Branch**
