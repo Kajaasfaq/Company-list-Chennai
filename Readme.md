@@ -1,10 +1,10 @@
 ## List of Companies in Chennai 🚀
 
 ## Chennai Companies Directory - Find Your Dream Job in Chennai 🔍
-This repository is a community-driven directory of companies in Chennai — from early-stage startups to global MNCs.  
+This repository is a community-driven directory of companies in Chennai -- from early-stage startups to global MNCs.  
 If you're searching for opportunities, this repo helps you explore companies, career pages, and open roles.
 
-✨ **Use the GitHub search bar above to find your dream company**.  
+# ✨ **Use the GitHub search bar above to find your dream company**.  
 If something is missing, **please open a Pull Request (PR)** and contribute!
 
 ---
