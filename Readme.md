@@ -249,17 +249,17 @@ It encourages contributors and keeps the repo active.
 ### 2. **Clone the Repository**  
    - Copy the URL of your forked repository and run this command in your terminal:
    
-    ```bash
+   ```bash
        git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
-    ```
+   ```
 ---
 
 ### 3. **Create a New Branch**
    - Navigate to the project directory and create a new branch for your changes:
      
-    ```bash
+   ```bash
     git checkout -b add-company-details
-    ```
+   ```
 ---
 ### 4. **Make Your Changes**
    - Add or update company details in the appropriate file. For example, if you're adding a new company, include  this Format:
@@ -269,24 +269,24 @@ It encourages contributors and keeps the repo active.
      + LinkedIn Profile (if available)
      + Email (if available) / Internship Page
 
-    ```bash
-    | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
-    ```
+     ```bash
+        | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
+     ```
 ---
 ### 5. **Commit Your Changes**
    - Save your changes and commit them:
     
-    ```bash
-    git add .
-    git commit -m "Added/Updated company details"
-    ```
+   ```bash
+      git add .
+      git commit -m "Added/Updated company details"
+   ```
 ---
 ### 6. **Push Your Changes**
    - Push the changes to your forked repository:
 
-    ```bash
-    git push origin add-company-details
-    ```
+   ```bash
+     git push origin add-company-details
+   ```
 ---
 ### 7. **Create a Pull Request**
    - Go to the original repository on GitHub and click on "Pull Requests."
