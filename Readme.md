@@ -246,17 +246,17 @@ It encourages contributors and keeps the repo active.
 ### 1. **Fork the Repository**  
    - Click the "Fork" button at the top-right corner of this repository to create your own copy.
 ---
-2. **Clone the Repository**  
+### 2. **Clone the Repository**  
    - Copy the URL of your forked repository and run this command in your terminal:  
    ```bash
    git clone <https://github.com/Kajaasfaq/Company-list-Chennai.git>
 ---
-3. **Create a New Branch**
+### 3. **Create a New Branch**
    - Navigate to the project directory and create a new branch for your changes:
    ```bash
    git checkout -b add-company-details
-
-4. **Make Your Changes**
+---
+### 4. **Make Your Changes**
    - Add or update company details in the appropriate file. For example, if you're adding a new company, include  this Format:
      + Company Name
      + Industry
@@ -266,37 +266,38 @@ It encourages contributors and keeps the repo active.
 
     ```bash
    | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
-
-5. **Commit Your Changes**
+---
+### 5. **Commit Your Changes**
    - Save your changes and commit them:
    ```bash
    git add .
    git commit -m "Added/Updated company details"
-
-6. **Push Your Changes**
+---
+### 6. **Push Your Changes**
    - Push the changes to your forked repository:
    ```bash
    git push origin add-company-details
-
-7. **Create a Pull Request**
+---
+### 7. **Create a Pull Request**
    - Go to the original repository on GitHub and click on "Pull Requests."
    - Click the "New Pull Request" button and compare your branch with the original repository's branch.
    - Add a title and description for your PR, then click "Create Pull Request."
-
-## Need Help?
+---
+##  Need Help❓
  - If you're stuck at any step, feel free to reach out. Every contribution matters, and we appreciate your efforts! 💪
+ - Thank you for helping job seekers across Chennai! 🙌
 
 
 ## 👋 Final Note
 
 Thank you for visiting This Repo! I hope it serves your needs well. If you like, consider starring ⭐ the repository and sharing it with others.
 
-Stay connected for more updates and feel free to contribute or provide feedback. Together, we make this project even better!
+Stay connected for more updates, and feel free to contribute or provide feedback. Together, we make this project even better!
 
-All the best for your journey 🎊🎊
+ Wishing you all the best for your journey 🎊🎊
 
 ----- 
 
-## Lets Get Connect 
+## Lets Get Connect 🛜
 
 Made with ❤️ by [ Asfaq ](https://www.linkedin.com/in/abdul-muthalif-asfaq/)-[ GitHub ](https://github.com/Kajaasfaq)
