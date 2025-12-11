@@ -61,7 +61,7 @@ It encourages contributors and keeps the repo active.
 ## Read below to learn how to Contribute And  create a Pull Request (PR). It's **(Beginner Friendly)** ❤️🧑‍💻
 
 
-## List of Companies in Chennai: slide->>
+## List of Companies in Chennai: for mobile slide to View - >>
 
 | C.No | Company Name    |	 Industry     |	     Careers Page    |      LinkedIn    |     Email    |
 | ---- | ------------    |	 --------     |	     ------------    |	    -------     |     -----    |
