@@ -9,6 +9,8 @@
 This repository is a community-driven directory of companies in Chennai -- from early-stage startups to global MNCs.  
 If you're searching for opportunities, this repo helps you explore companies, career pages, and open roles.
 
+---
+
 ## Join and Contribute
 <div aligh="center">
 <a href="https://github.com/Kajaasfaq/Company-list-Chennai"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kajaasfaq.Company-list-Chennai" alt="visitor count"/></a>
