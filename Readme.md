@@ -21,14 +21,14 @@ If you're searching for opportunities, this repo helps you explore companies, ca
 ## Use GitHub search bar above 🔍
 
 ✨ **Use the GitHub search bar above to find your dream company**.  
-If something is missing, **please open a Pull Request (PR)** and contribute!
+✨ If a company is missing from the list, **please open a Pull Request (PR)** and contribute!
 
 ---
 
 ## ⭐ Why This Repository Is Helpful for Job Seekers
 
-- ✔️ Central list of 170+ Chennai-based companies  
-- ✔️ Updated career pages & hiring links  
+- ✔️ Central list of 170+ companies so far, and the list keeps expanding with your contributions. 
+- ✔️ Updated career pages & Other links  
 - ✔️ Easy way to explore opportunities  
 - ✔️ Beginner-friendly contribution guide  
 
