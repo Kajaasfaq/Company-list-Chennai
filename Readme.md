@@ -18,6 +18,7 @@ If you're searching for opportunities, this repo helps you explore companies, ca
 <a href="https://github.com/Kajaasfaq/Company-list-Chennai/network/members"><img src="https://img.shields.io/github/forks/Kajaasfaq/Company-list-Chennai" alt="Forks Badge"/></a>
 <a href="https://github.com/Kajaasfaq/Company-list-Chennai/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kajaasfaq/Company-list-Chennai?color=2b9348"></a></p>
 </div>
+
 ---
 
 ## Use GitHub search bar above 🔍
