@@ -1,8 +1,6 @@
 ## List of Companies in Chennai 🚀
 
-<p align="center">
-  <img src="https://res.cloudinary.com/db0aqesca/image/upload/v1765491025/Gemini_Generated_Image_986jhe986jhe986j_xmmhx7.png" alt="visitor count"/>
-</p>
+<img src="https://res.cloudinary.com/db0aqesca/image/upload/v1765491025/Gemini_Generated_Image_986jhe986jhe986j_xmmhx7.png"/>
 
 ## Chennai Companies Directory - Find Your Dream Job in Chennai 🔍
 This repository is a community-driven directory of companies in Chennai -- from early-stage startups to global MNCs.  
