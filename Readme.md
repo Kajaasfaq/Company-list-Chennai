@@ -247,6 +247,8 @@ It encourages contributors and keeps the repo active.
 |  168 | Appian | Software Development | [ Appian Career Page](https://careers.appian.com/) | [ Appian Linkedin](https://www.linkedin.com/company/appian) | [ Other Openings ](https://job-boards.greenhouse.io/appian?gh_src=ba4a216d1us&offices%5B%5D=89628) |
 |  169 | Concentrix | IT Services | [ Concentrix Career Page](https://jobs.concentrix.com/) | [ Concentrix Linkedin](https://www.linkedin.com/company/concentrix/) | [ Other Openings ](https://jobs.concentrix.com/job-search/) |
 |  170 | Nasscom | IT Services | [ Nasscom Career Page](https://www.nasscom.in/careers) | [ Nasscom Linkedin](https://www.linkedin.com/company/nasscom-india/) | [ Other Openings ](https://www.linkedin.com/company/nasscom-india/jobs/) |
+|  171 | Staples | IT Services | [ Staples Career Page](https://staples.zohorecruit.in/jobs/Careers) | [ Staples Linkedin](https://www.linkedin.com/company/staplesindia/) | [ Other Openings ](https://www.staplesindia.in/life-at-staples) |
+|  172 | Lloyd's List Intelligence | IT Services | [ Lloyd's List Intelligence Career Page](https://www.lloydslistintelligence.com/careers/vacancies) | [ Lloyd's List Intelligence Linkedin](https://www.linkedin.com/company/lloyds-list-intelligence/) | [ Other Openings ](https://www.lloydslistintelligence.com/careers) |
 
 
 
