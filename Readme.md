@@ -251,7 +251,7 @@ It encourages contributors and keeps the repo active.
 |  172 | Lloyd's List Intelligence | IT Services | [ Lloyd's List Intelligence Career Page](https://www.lloydslistintelligence.com/careers/vacancies) | [ Lloyd's List Intelligence Linkedin](https://www.linkedin.com/company/lloyds-list-intelligence/) | [ Other Openings ](https://www.lloydslistintelligence.com/careers) |
 |  173 | BMW TechWorks India | Motor Vehicle Manufacturing | [ BMW TechWorks India Career Page](https://careers-bmwtechworks.peoplestrong.com/job/joblist) | [ BMW TechWorks India Linkedin](https://www.linkedin.com/company/bmw-techworks-india/) | [ Other Openings ](https://bmwtechworks.in/careers/) |
 |  174 | Strategy | Software Development | [ Strategy Career Page](https://www.strategysoftware.com/careers) | [ Strategy Linkedin](https://www.linkedin.com/company/strategy/) | [ Other Openings ](https://www.strategysoftware.com/careers/early-careers) |
-
+|  175 | Strategy | Software Development | [ Strategy Career Page](https://www.strategysoftware.com/careers) | [ Strategy Linkedin](https://www.linkedin.com/company/strategy/) | [ Other Openings ](https://www.strategysoftware.com/careers/early-careers) |
 
 ## How to Make Your First Contribution 💻 **(Beginner Friendly)**
 
