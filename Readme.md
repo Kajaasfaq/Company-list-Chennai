@@ -253,7 +253,8 @@ It encourages contributors and keeps the repo active.
 |  174 | Strategy | Software Development | [ Strategy Career Page](https://www.strategysoftware.com/careers) | [ Strategy Linkedin](https://www.linkedin.com/company/strategy/) | [ Other Openings ](https://www.strategysoftware.com/careers/early-careers) |
 |  175 | HD Supply | IT | [ HD Supply Career Page](https://hdsupply.zohorecruit.in/jobs/Careers) | [ HD Supply Linkedin](https://www.linkedin.com/company/hd-supply/) | [ Other Openings ](https://hdsupply.jobs/us/en/global-technology-center) |
 |  176 | SMBC | Financial Services | [ SMBC Career Page](https://careerasia.smbc.co.jp/SMBC/?locale=en_US&previewLink=true&referrerSave=false) | [ SMBC Linkedin](https://www.linkedin.com/company/sumitomo-mitsui-banking-corporation/) | [ Other Openings ](https://careerasia.smbc.co.jp/SMBC/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_title=&optionsFacetsDD_customfield1=Chennai%2C+India) |
-
+|  177 | SMBC | Financial Services | [ SMBC Career Page](https://careerasia.smbc.co.jp/SMBC/?locale=en_US&previewLink=true&referrerSave=false) | [ SMBC Linkedin](https://www.linkedin.com/company/sumitomo-mitsui-banking-corporation/) | [ Other Openings ](https://careerasia.smbc.co.jp/SMBC/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_title=&optionsFacetsDD_customfield1=Chennai%2C+India) |
+|  178 | SMBC | Financial Services | [ SMBC Career Page](https://careerasia.smbc.co.jp/SMBC/?locale=en_US&previewLink=true&referrerSave=false) | [ SMBC Linkedin](https://www.linkedin.com/company/sumitomo-mitsui-banking-corporation/) | [ Other Openings ](https://careerasia.smbc.co.jp/SMBC/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_title=&optionsFacetsDD_customfield1=Chennai%2C+India) |
 ## How to Make Your First Contribution 💻 **(Beginner Friendly)**
 
 - Follow these steps to create your first Pull Request (PR):
