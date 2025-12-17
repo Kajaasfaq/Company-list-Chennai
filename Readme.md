@@ -255,6 +255,9 @@ It encourages contributors and keeps the repo active.
 |  176 | SMBC | Financial Services | [ SMBC Career Page](https://careerasia.smbc.co.jp/SMBC/?locale=en_US&previewLink=true&referrerSave=false) | [ SMBC Linkedin](https://www.linkedin.com/company/sumitomo-mitsui-banking-corporation/) | [ Other Openings ](https://careerasia.smbc.co.jp/SMBC/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_title=&optionsFacetsDD_customfield1=Chennai%2C+India) |
 |  177 | Wing | Drone | [ Wing Career Page](https://wing.com/careers) | [ Wing Linkedin](https://www.linkedin.com/company/wing/) | [ Other Openings ](https://wing.com/careers#job-list) |
 |  178 | Nutanix | IT | [ Nutanix Career Page](https://www.nutanix.com/company/careers) | [ Nutanix Linkedin](https://www.linkedin.com/company/nutanix/) | [ Other Openings ](https://careers.nutanix.com/en/jobs/) |
+|  179 | SecureW2 | IT | [ SecureW2 Career Page](https://www.securew2.com/careers) | [ SecureW2 Linkedin](https://www.linkedin.com/company/securew2/) | [ Other Openings ](https://securew2.bamboohr.com/careers) |
+|  180 | Mindsprint | IT | [ Mindsprint Career Page](https://www.mindsprint.com/why-mindsprint) | [ Mindsprint Linkedin](https://www.linkedin.com/company/mindsprint/) | [ Other Openings ](https://mindsprint.darwinbox.in/ms/candidate/careers) |
+
 
 ## How to Make Your First Contribution 💻 **(Beginner Friendly)**
 
