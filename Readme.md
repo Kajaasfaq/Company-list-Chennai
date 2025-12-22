@@ -257,7 +257,6 @@ It encourages contributors and keeps the repo active.
 |  178 | Nutanix | IT | [ Nutanix Career Page](https://www.nutanix.com/company/careers) | [ Nutanix Linkedin](https://www.linkedin.com/company/nutanix/) | [ Other Openings ](https://careers.nutanix.com/en/jobs/) |
 |  179 | SecureW2 | IT | [ SecureW2 Career Page](https://www.securew2.com/careers) | [ SecureW2 Linkedin](https://www.linkedin.com/company/securew2/) | [ Other Openings ](https://securew2.bamboohr.com/careers) |
 |  180 | Mindsprint | IT | [ Mindsprint Career Page](https://www.mindsprint.com/why-mindsprint) | [ Mindsprint Linkedin](https://www.linkedin.com/company/mindsprint/) | [ Other Openings ](https://mindsprint.darwinbox.in/ms/candidate/careers) |
-|  180 | Mindsprint | IT | [ Mindsprint Career Page](https://www.mindsprint.com/why-mindsprint) | [ Mindsprint Linkedin](https://www.linkedin.com/company/mindsprint/) | [ Other Openings ](https://mindsprint.darwinbox.in/ms/candidate/careers) |
 
 
 ## How to Make Your First Contribution 💻 **(Beginner Friendly)**
