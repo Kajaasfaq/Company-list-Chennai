@@ -259,6 +259,7 @@ It encourages contributors and keeps the repo active.
 |  180 | Mindsprint | IT | [ Mindsprint Career Page](https://www.mindsprint.com/why-mindsprint) | [ Mindsprint Linkedin](https://www.linkedin.com/company/mindsprint/) | [ Other Openings ](https://mindsprint.darwinbox.in/ms/candidate/careers) |
 
 
+
 ## How to Make Your First Contribution 💻 **(Beginner Friendly)**
 
 - Follow these steps to create your first Pull Request (PR):
